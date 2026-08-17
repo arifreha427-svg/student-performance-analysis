@@ -44,7 +44,7 @@ A student-subject level dataset with the following columns:
 ## 🚀 How to Run
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/arifreha427-svg/student-performance-analysis>
 cd student-performance-analysis
 pip install -r requirements.txt
 jupyter notebook Student_Performance_Analysis.ipynb
