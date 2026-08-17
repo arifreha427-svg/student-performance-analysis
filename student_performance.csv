@@ -1,0 +1,1516 @@
+student_id,name,gender,class,subject,marks,attendance_percentage,study_hours
+1099,Hassan Baig,Female,12-B,Computer Science,64.4,79.3,3.6
+1119,Kamran Yousaf,Female,12-A,English,45.0,70.7,4.0
+1199,Kinza Sheikh,Male,11-B,Mathematics,69.1,81.4,2.7
+1183,Danish Rana,Male,11-A,History,53.3,71.0,0.0
+1138,Kamran Sheikh,Male,9-B,Mathematics,100.0,96.6,6.6
+1021,Noman Shah,Male,11-B,Science,56.9,79.8,2.1
+1089,Ahmed Khan,Male,12-B,History,48.6,65.9,0.0
+1156,Kinza Sheikh,Female,9-A,Science,68.6,67.0,3.5
+1090,Bushra Butt,Male,12-B,Science,49.6,72.3,1.9
+1093,Farah Hussain,Female,10-B,Computer Science,93.0,92.0,5.9
+1186,Saad Butt,Female,10-B,English,75.4,75.7,4.9
+1204,Maria Hussain,Male,11-B,English,43.7,66.7,2.8
+1221,Usman Rana,Male,11-B,Science,50.5,54.6,2.0
+1100,Javeria Javed,Male,10-A,History,69.5,72.2,3.2
+1267,Eman Malik,Female,12-A,Science,52.8,72.0,2.8
+1165,Asad Yousaf,Male,10-B,History,65.3,75.5,2.6
+1288,Danish Ahmed,Male,9-B,Computer Science,87.3,88.8,4.3
+1199,Kinza Sheikh,Male,11-B,History,82.4,81.4,2.7
+1171,Junaid Javed,Female,9-A,Science,73.1,97.4,4.5
+1238,Tariq Khan,Female,9-A,Science,42.1,54.4,1.4
+1288,Danish Ahmed,Male,9-B,English,95.7,88.8,4.3
+1023,Eman Abbasi,Female,9-B,Science,58.0,79.9,2.9
+1280,Owais Javed,Male,11-A,English,70.9,78.2,5.0
+1106,Tariq Butt,Female,9-B,Mathematics,80.4,92.0,3.0
+1120,Hassan Hussain,Female,11-A,English,69.8,86.6,1.8
+1068,Fatima Mirza,Male,11-A,Mathematics,63.4,75.9,2.6
+1230,Ali Malik,Male,12-A,Science,57.8,66.3,1.0
+1185,Rabia Malik,Male,12-B,Science,49.0,65.2,0.0
+1154,Arham Abbasi,Female,11-A,History,90.3,96.1,4.2
+1249,Eman Yousaf,Male,9-A,Science,78.6,83.6,3.0
+1264,Bilal Yousaf,Female,12-A,Science,50.0,59.9,1.6
+1091,Junaid Qureshi,Male,9-B,English,76.2,83.5,2.9
+1189,Maria Farooq,Male,10-B,Science,58.4,76.1,2.5
+1143,Arham Ahmed,Female,10-B,History,64.7,80.1,2.4
+1019,Rimsha Butt,Male,11-B,Science,69.7,79.7,3.4
+1093,Farah Hussain,Female,10-B,English,89.1,92.0,5.9
+1270,Mahnoor Abbasi,Female,11-A,History,34.8,61.5,1.8
+1245,Bilal Malik,Female,12-A,History,62.9,65.3,1.1
+1166,Noman Farooq,Male,10-B,Science,66.9,71.8,1.7
+1088,Bilal Baig,Female,12-B,Mathematics,17.9,66.3,0.0
+1229,Junaid Javed,Male,9-A,History,66.0,83.5,2.5
+1299,Maria Malik,Male,9-B,English,65.2,61.3,
+1115,Warda Shah,Female,11-B,History,79.0,74.3,2.9
+1022,Javeria Baig,Female,10-B,English,69.9,67.7,2.3
+1099,Hassan Baig,Female,12-B,Mathematics,67.1,79.3,3.6
+1080,Zainab Malik,Male,12-B,Science,69.6,72.6,3.6
+1110,Hamza Abbasi,Female,11-A,Science,32.8,51.1,0.0
+1245,Bilal Malik,Female,12-A,Science,42.8,65.3,1.1
+1054,Tariq Malik,Female,9-A,English,65.2,74.3,2.0
+1078,Ali Awan,Female,9-A,Science,75.2,75.9,3.2
+1118,Hassan Siddiqui,Female,10-B,Computer Science,55.5,75.2,0.0
+1158,Danish Rana,Male,11-A,Mathematics,64.0,76.3,1.7
+1234,Fatima Butt,Male,12-A,Science,78.7,82.2,3.6
+1188,Maria Raza,Male,9-B,English,50.0,68.8,1.2
+1024,Tariq Rana,Male,12-A,Computer Science,51.3,72.2,2.3
+1167,Fatima Awan,Male,9-B,Computer Science,56.7,63.0,3.2
+1155,Eman Sheikh,Female,12-A,Science,71.3,86.0,4.3
+1016,Junaid Iqbal,Female,10-A,Mathematics,66.4,78.0,4.1
+1013,Sana Awan,Female,10-B,Mathematics,35.6,59.5,1.0
+1164,Zainab Chaudhry,Female,11-B,Mathematics,86.2,91.9,4.5
+1192,Omar Malik,Male,12-B,Computer Science,81.2,85.0,5.6
+1222,Fatima Hussain,Female,11-A,History,70.4,79.8,3.2
+1041,Laiba Yousaf,Male,11-A,Computer Science,63.3,75.7,4.5
+1008,Faizan Butt,Male,9-B,English,,63.3,2.7
+1293,Owais Hussain,Female,9-A,Science,53.2,72.5,1.0
+1221,Usman Rana,Male,11-B,English,48.2,54.6,2.0
+1017,Warda Awan,Male,10-B,Mathematics,63.2,74.7,3.2
+1169,Kinza Rana,Female,10-B,Science,65.0,81.3,0.0
+1043,Bushra Qureshi,Male,9-B,Science,44.7,77.8,1.0
+1122,Shahzaib Abbasi,Female,12-B,History,65.7,66.3,3.9
+1011,Iqra Butt,Female,9-A,History,59.6,81.1,1.6
+1082,Farah Rana,Female,9-A,History,46.5,68.3,2.3
+1255,Shahzaib Qureshi,Male,10-B,English,58.5,,2.6
+1172,Hira Yousaf,Female,10-B,Mathematics,86.4,88.5,5.4
+1086,Hassan Mirza,Male,9-A,Science,53.9,77.0,2.1
+1247,Ali Shah,Female,9-A,Science,44.3,53.1,0.0
+1294,Saad Ahmed,Female,12-B,History,91.7,85.3,4.3
+1210,Ayesha Sheikh,Female,12-B,Mathematics,69.4,73.6,3.8
+1253,Ali Qureshi,Female,10-A,English,55.8,77.0,2.4
+1154,Arham Abbasi,Female,11-A,English,86.4,96.1,4.2
+1205,Javeria Malik,Female,9-A,Science,75.9,78.1,4.8
+1209,Zainab Baig,Female,12-B,Mathematics,29.0,57.8,0.2
+1236,Shahzaib Rana,Male,9-B,English,43.8,63.3,1.2
+1254,Omar Shah,Female,12-B,English,63.4,64.3,3.9
+1297,Faizan Awan,Female,12-B,Science,53.9,70.9,3.1
+1244,Ali Raza,Female,9-A,Science,,61.5,1.8
+1242,Faizan Butt,Female,12-B,Science,72.5,93.3,4.7
+1021,Noman Shah,Male,11-B,English,66.8,79.8,2.1
+1246,Zainab Chaudhry,Male,10-A,Mathematics,71.2,79.2,3.9
+1248,Rabia Malik,Male,12-A,English,70.7,82.4,3.4
+1135,Sana Hussain,Female,12-B,Science,66.2,69.4,2.6
+1039,Ahmed Shah,Female,9-B,Mathematics,84.6,98.5,4.9
+1105,Bushra Chaudhry,Female,11-B,Science,58.8,79.1,3.3
+1285,Ali Raza,Female,9-A,Mathematics,52.1,70.4,2.0
+1221,Usman Rana,Male,11-B,History,50.1,54.6,2.0
+1293,Owais Hussain,Female,9-A,History,46.3,72.5,1.0
+1258,Zainab Mirza,Female,12-B,Mathematics,69.9,83.8,5.7
+1147,Rabia Hussain,Female,12-A,Science,-5.0,66.2,3.0
+1158,Danish Rana,Male,11-A,Science,64.7,76.3,1.7
+1048,Sana Abbasi,Female,12-A,Science,62.4,84.8,2.5
+1120,Hassan Hussain,Female,11-A,Computer Science,61.0,86.6,1.8
+1034,Zainab Chaudhry,Male,12-A,English,89.6,76.3,5.2
+1137,Warda Baig,Male,11-A,Mathematics,57.1,72.9,1.8
+1034,Zainab Chaudhry,Male,12-A,Computer Science,74.6,76.3,5.2
+1115,Warda Shah,Female,11-B,English,68.1,74.3,2.9
+1097,Mahnoor Baig,Female,11-B,Science,60.7,80.2,2.8
+1104,Bilal Yousaf,Male,12-A,Science,53.6,73.3,0.4
+1213,Hassan Sheikh,Female,9-B,Computer Science,56.2,74.0,1.2
+1073,Nida Sheikh,Female,12-B,Science,64.4,78.5,2.3
+1131,Rabia Mirza,Female,12-B,Computer Science,62.3,74.4,3.1
+1143,Arham Ahmed,Female,10-B,Science,53.9,80.1,2.4
+1100,Javeria Javed,Male,10-A,Science,41.3,72.2,
+1140,Javeria Mirza,Female,12-B,History,66.8,68.6,3.4
+1258,Zainab Mirza,Female,12-B,Science,64.0,83.8,5.7
+1172,Hira Yousaf,Female,10-B,English,98.7,88.5,5.4
+1140,Javeria Mirza,Female,12-B,English,67.1,68.6,3.4
+1286,Eman Qureshi,Male,12-B,English,78.7,150.0,4.5
+1010,Sana Mirza,Female,10-B,History,56.6,82.0,3.6
+1112,Saad Ahmed,Female,10-A,Computer Science,79.7,84.6,4.4
+1182,Nida Siddiqui,Male,11-A,Computer Science,,72.0,2.1
+1201,Warda Mirza,Female,9-A,History,46.5,65.8,0.8
+1162,Eman Iqbal,Male,11-B,History,51.3,60.0,1.9
+1052,Komal Ahmed,Male,11-A,History,65.1,88.1,2.3
+1175,Bushra Malik,Male,9-B,English,73.8,66.8,4.4
+1087,Bilal Rana,Male,9-B,English,49.2,57.8,0.6
+1060,Nida Malik,Female,11-A,Computer Science,72.9,85.0,0.1
+1091,Junaid Qureshi,Male,9-B,Science,74.4,83.5,2.9
+1264,Bilal Yousaf,Female,12-A,English,49.3,59.9,1.6
+1061,Faizan Chaudhry,Female,11-B,Computer Science,70.0,,1.3
+1155,Eman Sheikh,Female,12-A,Computer Science,82.2,86.0,4.3
+1142,Eman Khan,Female,12-B,History,64.5,63.7,0.0
+1194,Hassan Baig,Male,10-B,Science,64.1,81.5,2.2
+1127,Sana Khan,Female,11-A,English,64.8,72.9,1.6
+1266,Kinza Yousaf,Female,11-A,Computer Science,70.3,68.2,4.2
+1240,Bushra Iqbal,Male,11-A,Mathematics,43.6,69.6,0.3
+1058,Danish Ahmed,Male,12-B,Mathematics,37.5,66.6,1.3
+1089,Ahmed Khan,Male,12-B,English,28.3,65.9,0.0
+1155,Eman Sheikh,Female,12-A,English,81.7,86.0,4.3
+1179,Komal Malik,Male,10-A,English,64.0,72.6,2.7
+1159,Ayesha Butt,Female,11-A,Science,36.8,64.3,1.2
+1058,Danish Ahmed,Male,12-B,History,38.1,66.6,1.3
+1004,Tariq Raza,Male,11-A,Computer Science,44.9,72.6,1.7
+1093,Farah Hussain,Female,10-B,Mathematics,81.8,92.0,5.9
+1255,Shahzaib Qureshi,Male,10-B,Mathematics,65.6,73.1,2.6
+1148,Mahnoor Raza,Female,10-B,Mathematics,50.1,76.4,2.1
+1098,Maria Farooq,Male,10-B,English,70.4,90.6,3.3
+1118,Hassan Siddiqui,Female,10-B,English,58.7,75.2,0.0
+1152,Imran Qureshi,Female,12-A,English,74.4,81.4,5.3
+1001,Bilal Javed,Female,10-B,History,75.5,86.6,1.6
+1059,Imran Yousaf,Male,12-A,English,61.9,77.4,3.0
+1024,Tariq Rana, male ,12-A,Mathematics,56.9,72.2,2.3
+1029,Kamran Abbasi,Female,10-B,Mathematics,64.4,72.4,1.0
+1063,Sana Chaudhry,Male,11-B,Computer Science,51.1,80.1,3.3
+1131,Rabia Mirza,Female,12-B,Mathematics,63.5,74.4,3.1
+1221,Usman Rana,Male,11-B,Mathematics,34.8,54.6,2.0
+1252,Tariq Malik,Female,10-A,Science,69.8,89.3,5.3
+1039,Ahmed Shah,Female,9-B,Computer Science,88.6,98.5,4.9
+1041,Laiba Yousaf,Male,11-A,Science,57.6,75.7,4.5
+1010,Sana Mirza,Female,10-B,Computer Science,74.9,82.0,3.6
+1047,Nida Hussain,Male,12-B,Science,71.9,84.9,5.1
+1234,Fatima Butt,Male,12-A,Computer Science,87.0,82.2,3.6
+1116,Javeria Khan,Female,12-B,Computer Science,62.5,80.5,2.0
+1178,Eman Khan,Male,10-B,Mathematics,76.7,81.2,1.7
+1021,Noman Shah,Male,11-B,Computer Science,60.1,79.8,2.1
+1286,Eman Qureshi,Male,12-B,History,69.2,80.2,4.5
+1278,Zara Iqbal,Male,12-B,Science,89.0,93.1,5.9
+1146,Rabia Rana,Male,9-A,Mathematics,50.6,66.0,0.8
+1189,Maria Farooq,Male,10-B,English,76.2,76.1,2.5
+1197,Bushra Khan,Female,12-B,History,56.9,68.5,3.8
+1144,Junaid Malik,Female,10-B,History,,77.5,3.3
+1066,Ali Raza,Female,11-B,Mathematics,48.0,80.5,3.7
+1050,Danish Chaudhry,Female,10-B,History,60.7,63.7,1.1
+1037,Iqra Rana,Male,12-B,Science,61.0,85.1,3.6
+1275,Omar Khan,Male,12-B,Mathematics,47.1,,3.6
+1131,Rabia Mirza,Female,12-B,History,71.1,74.4,3.1
+1280,Owais Javed,Male,11-A,History,67.8,78.2,5.0
+1061,Faizan Chaudhry,Female,11-B,Science,62.9,75.1,1.3
+1122,Shahzaib Abbasi,Female,12-B,English,67.8,66.3,3.9
+1011,Iqra Butt,Female,9-A,Science,65.9,81.1,1.6
+1298,Noman Farooq,Male,11-B,Computer Science,42.7,55.6,0.0
+1126,Omar Mirza,Male,9-A,Mathematics,49.0,78.8,1.7
+1082,Farah Rana,Female,9-A,Computer Science,60.2,68.3,2.3
+1022,Javeria Baig,Female,10-B,History,55.4,67.7,2.3
+1207,Bushra Raza,Female,11-B,Mathematics,56.5,73.8,2.7
+1128,Farah Rana,Female,11-B,Mathematics,46.7,52.2,3.6
+1156,Kinza Sheikh,Female,9-A,Computer Science,73.2,67.0,3.5
+1282,Hamza Chaudhry,Male,9-A,Computer Science,46.3,68.3,0.5
+1007,Owais Baig,Male,12-B,Mathematics,55.2,66.0,3.1
+1295,Asad Ahmed,Female,12-A,History,51.4,71.8,4.6
+1234,Fatima Butt,Male,12-A,English,68.6,82.2,3.6
+1256,Shahzaib Sheikh,Male,10-B,Science,94.2,86.0,6.5
+1279,Zainab Mirza,Male,12-B,Mathematics,52.3,68.6,3.5
+1194,Hassan Baig,Male,10-B,Computer Science,75.5,81.5,2.2
+1108,Maria Ahmed,Female,12-A,English,67.5,86.5,2.9
+1167,Fatima Awan,Male,9-B,Mathematics,54.0,63.0,3.2
+1271,Usman Sheikh,Male,9-A,Science,83.4,83.6,4.6
+1230,Ali Malik,Male,12-A,Computer Science,51.1,66.3,1.0
+1054,Tariq Malik,Female,9-A,History,58.6,74.3,2.0
+1052,Komal Ahmed,Male,11-A,Mathematics,71.2,88.1,2.3
+1036,Zainab Khan,Male,10-B,English,42.0,65.8,3.2
+1052,Komal Ahmed,Male,11-A,Computer Science,70.6,88.1,2.3
+1149,Imran Shah,Male,9-A,English,53.4,68.7,1.6
+1193,Shahzaib Hussain,Female,11-A,English,64.3,60.1,3.9
+1018,Danish Ahmed,Female,11-B,History,78.5,76.1,3.6
+1241,Iqra Ahmed,Male,9-A,History,43.4,62.1,1.6
+1282,Hamza Chaudhry,Male,9-A,History,46.8,68.3,0.5
+1053,Owais Malik,Female,12-B,Computer Science,76.1,76.2,3.4
+1264,Bilal Yousaf,Female,12-A,Mathematics,48.8,59.9,1.6
+1082,Farah Rana,Female,9-A,Science,46.0,68.3,2.3
+1127,Sana Khan,Female,11-A,Computer Science,59.8,72.9,1.6
+1196,Kinza Javed,Female,9-B,English,64.3,70.0,3.0
+1097,Mahnoor Baig,Female,11-B,Mathematics,64.3,80.2,2.8
+1295,Asad Ahmed,Female,12-A,Computer Science,53.1,71.8,4.6
+1285,Ali Raza,Female,9-A,English,70.2,70.4,2.0
+1185,Rabia Malik,Male,12-B,History,41.3,65.2,0.0
+1250,Bilal Qureshi,Female,12-A,Computer Science,45.4,63.9,0.9
+1081,Ali Malik,Female,12-B,Mathematics,59.0,70.5,3.1
+1057,Kinza Qureshi,Female,10-B,History,50.9,62.2,3.4
+1214,Rimsha Yousaf,Male,11-B,Science,64.6,74.0,5.7
+1281,Sana Baig,Female,10-B,English,64.1,71.5,0.5
+1156,Kinza Sheikh,Female,9-A,English,73.0,67.0,3.5
+1032,Rehan Awan,Male,10-A,History,72.9,87.9,3.5
+1045,Eman Abbasi,Female,11-B,History,67.5,84.8,3.9
+1199,Kinza Sheikh,Male,11-B,Science,71.3,81.4,2.7
+1125,Rimsha Awan,Female,11-B,History,74.5,73.7,2.0
+1160,Arham Yousaf,Female,11-A,Computer Science,52.7,,3.1
+1291,Asad Shah,Female,9-B,Science,56.1,58.2,2.2
+1197,Bushra Khan,Female,12-B,Mathematics,50.4,68.5,3.8
+1234,Fatima Butt,Male,12-A,Mathematics,64.1,82.2,3.6
+1125,Rimsha Awan,Female,11-B,English,65.1,73.7,2.0
+1191,Eman Butt,Male,11-A,Mathematics,36.5,65.3,2.6
+1019,Rimsha Butt,Male,11-B,Computer Science,64.1,79.7,3.4
+1106,Tariq Butt,Female,9-B,History,86.8,92.0,3.0
+1180,Bushra Shah,Male,12-B,Computer Science,45.7,59.1,0.2
+1250,Bilal Qureshi,Female,12-A,Mathematics,46.6,63.9,0.9
+1062,Fatima Hussain,Female,9-B,Computer Science,51.4,67.9,0.6
+1236,Shahzaib Rana,Male,9-B,Computer Science,51.6,63.3,1.2
+1141,Laiba Malik,Male,11-B,Mathematics,69.6,73.5,2.2
+1226,Rimsha Hussain,Male,10-A,Computer Science,74.4,85.3,3.6
+1123,Ayesha Javed,Female,9-A,Computer Science,58.6,66.2,2.8
+1124,Sana Mirza,Male,9-A,Science,44.1,64.7,0.0
+1014,Arham Qureshi,Male,11-A,Mathematics,69.0,79.3,3.5
+1055,Sana Qureshi,Female,11-B,Mathematics,58.3,78.4,3.3
+1067,Saad Baig,Female,9-A,Mathematics,23.1,62.0,0.0
+1192,Omar Malik,Male,12-B,Computer Science,81.2,85.0,5.6
+1152,Imran Qureshi,Female,12-A,Mathematics,60.7,81.4,5.3
+1085,Imran Ahmed,Female,12-A,Science,69.5,73.9,3.9
+1101,Hassan Ahmed,Male,10-A,History,73.8,76.8,4.7
+1229,Junaid Javed,Male,9-A,Computer Science,59.6,83.5,2.5
+1237,Javeria Baig,Male,11-A,Mathematics,48.7,82.9,4.0
+1151,Hassan Khan,Male,9-A,Mathematics,,63.0,1.5
+1052,Komal Ahmed,Male,11-A,History,65.1,88.1,2.3
+1012,Kamran Javed,Female,10-B,Science,63.0,68.2,4.0
+1029,Kamran Abbasi,Female,10-B,English,72.7,72.4,1.0
+1262,Rimsha Sheikh,Female,12-B,English,97.0,96.0,5.8
+1249,Eman Yousaf,Male,9-A,Computer Science,68.4,83.6,3.0
+1100,Javeria Javed,Male,10-A,Mathematics,57.9,72.2,3.2
+1086,Hassan Mirza,Male,9-A,History,54.3,77.0,2.1
+1065,Hira Mirza,Female,11-A,Science,69.1,71.3,4.3
+1103,Asad Butt,Male,11-A,English,44.4,45.2,0.4
+1040,Nida Butt,Male,11-A,History,47.2,60.8,2.3
+1032,Rehan Awan,Male,10-A,Computer Science,70.4,87.9,3.5
+1046,Usman Khan,Female,11-A,English,71.5,69.9,3.3
+1192,Omar Malik,Male,12-B,Mathematics,70.4,85.0,5.6
+1120,Hassan Hussain,Female,11-A,Science,64.2,86.6,1.8
+1116,Javeria Khan,Female,12-B,Mathematics,69.2,80.5,2.0
+1107,Hira Mirza,Female,12-B,Science,72.8,81.9,2.2
+1161,Rabia Farooq,Male,11-A,Computer Science,63.1,69.3,1.3
+1193,Shahzaib Hussain,Female,11-A,Science,70.1,60.1,3.9
+1245,Bilal Malik,Female,12-A,Mathematics,54.6,65.3,1.1
+1191,Eman Butt,Male,11-A,Science,56.3,65.3,2.6
+1133,Usman Shah,Male,10-B,Science,56.7,83.6,1.4
+1018,Danish Ahmed,Female,11-B,English,75.5,76.1,3.6
+1147,Rabia Hussain,Female,12-A,Mathematics,55.0,66.2,3.0
+1164,Zainab Chaudhry,Female,11-B,Computer Science,82.6,91.9,4.5
+1228,Laiba Farooq,Male,9-A,Mathematics,60.6,78.6,2.7
+1181,Rabia Malik,Female,10-A,Mathematics,46.3,56.5,0.4
+1163,Fatima Raza,Female,12-A,History,61.0,70.2,1.8
+1072,Asad Ahmed,Male,11-B,Computer Science,73.3,78.3,5.1
+1184,Iqra Hussain,Male,12-A,History,60.3,83.4,2.1
+1255,Shahzaib Qureshi,Male,10-B,Computer Science,75.4,73.1,2.6
+1025,Eman Qureshi,Male,11-B,Mathematics,46.9,67.9,1.9
+1219,Kamran Butt,Female,9-B,Mathematics,96.1,100.0,4.0
+1084,Fatima Ahmed,Female,11-A,History,41.4,55.7,0.0
+1233,Kinza Raza,Female,12-A,English,70.3,83.4,3.4
+1210,Ayesha Sheikh,Female,12-B,History,78.2,73.6,3.8
+1038,Maria Awan,Male,10-A,Science,72.5,87.6,3.8
+1227,Hira Rana,Male,9-B,History,65.5,82.4,
+1075,Nida Chaudhry,Male,11-B,English,55.3,64.1,2.3
+1136,Maria Rana,Male,9-B,Computer Science,37.2,65.0,0.3
+1112,Saad Ahmed,Female,10-A,Science,71.4,84.6,4.4
+1027,Faizan Butt,Male,12-B,History,62.6,63.6,3.3
+1061,Faizan Chaudhry,Female,11-B,English,50.2,75.1,1.3
+1257,Shahzaib Chaudhry,Female,9-B,History,66.6,71.1,2.3
+1017,Warda Awan,Male,10-B,Science,68.9,74.7,3.2
+1129,Faizan Rana,Female,10-A,History,39.1,57.6,0.1
+1110,Hamza Abbasi,Female,11-A,English,15.7,51.1,0.0
+1096,Kamran Hussain,Male,10-B,History,,78.1,4.9
+1218,Imran Malik,Female,12-A,English,51.8,64.7,0.0
+1085,Imran Ahmed,Female,12-A,Computer Science,69.3,73.9,3.9
+1125,Rimsha Awan,Female,11-B,Mathematics,64.9,73.7,2.0
+1222,Fatima Hussain,Female,11-A,Science,64.8,79.8,3.2
+1242,Faizan Butt,Female,12-B,Computer Science,74.4,93.3,4.7
+1299,Maria Malik, male ,9-B,Computer Science,64.2,61.3,2.8
+1139,Mahnoor Javed,Female,10-B,History,67.0,87.5,3.2
+1273,Noman Hussain,Male,10-B,Science,73.6,75.4,2.3
+1232,Hira Farooq,Female,12-A,Science,77.4,74.8,2.8
+1287,Zara Mirza,Female,11-A,English,50.7,70.0,2.6
+1241,Iqra Ahmed,Male,9-A,Computer Science,36.8,62.1,1.6
+1081,Ali Malik,Female,12-B,History,60.6,70.5,
+1237,Javeria Baig,Male,11-A,History,51.8,82.9,4.0
+1003,Zara Chaudhry,Male,12-B,English,66.7,82.3,3.6
+1081,Ali Malik,Female,12-B,Science,65.9,70.5,3.1
+1015,Warda Raza,Male,10-B,History,43.0,58.0,0.2
+1291,Asad Shah,Female,9-B,Mathematics,42.8,58.2,2.2
+1106,Tariq Butt,Female,9-B,English,71.8,92.0,3.0
+1298,Noman Farooq,Male,11-B,English,40.1,55.6,
+1062,Fatima Hussain,Female,9-B,Mathematics,47.8,67.9,0.6
+1067,Saad Baig,Female,9-A,Science,24.9,,0.0
+1099,Hassan Baig,Female,12-B,Science,68.6,79.3,3.6
+1217,Arham Butt,Male,9-A,Computer Science,63.0,69.2,3.3
+1237,Javeria Baig,Male,11-A,Science,52.9,82.9,4.0
+1179,Komal Malik,Male,10-A,Mathematics,50.1,72.6,2.7
+1033,Laiba Malik,Female,12-B,History,52.1,59.7,0.6
+1010,Sana Mirza,Female,10-B,English,71.4,82.0,3.6
+1123,Ayesha Javed,Female,9-A,History,64.7,66.2,2.8
+1020,Farah Siddiqui,Female,10-A,History,27.5,55.5,0.0
+1295,Asad Ahmed,Female,12-A,English,67.9,71.8,4.6
+1180,Bushra Shah,Male,12-B,Mathematics,24.3,59.1,0.2
+1111,Iqra Mirza,Female,11-B,History,61.1,72.0,2.6
+1091,Junaid Qureshi,Male,9-B,History,90.3,83.5,2.9
+1057,Kinza Qureshi,Female,10-B,Mathematics,44.1,62.2,3.4
+1292,Ali Farooq,Female,10-B,Science,10.9,43.9,0.5
+1063,Sana Chaudhry,Male,11-B,Science,61.0,80.1,3.3
+1027,Faizan Butt,Male,12-B,Science,56.3,63.6,3.3
+1173,Kinza Sheikh,Male,11-A,Science,75.6,77.6,5.3
+1259,Rehan Shah,Female,10-B,History,70.6,74.2,3.5
+1203,Omar Hussain,Female,11-A,Mathematics,78.1,81.9,4.2
+1121,Fatima Iqbal,Female,11-B,English,34.3,54.1,0.3
+1128,Farah Rana,Female,11-B,History,56.0,52.2,3.6
+1044,Iqra Malik,Male,9-A,Mathematics,69.3,-10.0,3.2
+1028,Kamran Khan,Male,12-B,Mathematics,53.0,68.8,2.7
+1287,Zara Mirza,Female,11-A,Science,58.9,70.0,2.6
+1249,Eman Yousaf,Male,9-A,History,74.8,83.6,3.0
+1133,Usman Shah,Male,10-B,Mathematics,,83.6,1.4
+1060,Nida Malik,Female,11-A,History,55.8,85.0,0.1
+1278,Zara Iqbal,Male,12-B,History,89.8,93.1,5.9
+1261,Fatima Rana,Male,10-B,Science,70.2,81.7,4.3
+1133,Usman Shah,Male,10-B,Computer Science,57.0,83.6,1.4
+1250,Bilal Qureshi,Female,12-A,Science,44.9,63.9,0.9
+1150,Saad Khan,Male,9-B,History,88.4,78.2,4.3
+1208,Kamran Iqbal,Male,11-B,Mathematics,63.4,80.0,4.2
+1040,Nida Butt,Male,11-A,Mathematics,35.0,60.8,2.3
+1074,Zainab Sheikh,Male,9-B,History,67.7,,2.2
+1116,Javeria Khan,Female,12-B,English,59.4,80.5,2.0
+1117,Arham Khan,Male,10-A,Science,58.8,68.9,0.1
+1146,Rabia Rana,Male,9-A,Computer Science,54.7,66.0,0.8
+1152,Imran Qureshi,Female,12-A,Computer Science,70.9,81.4,5.3
+1230,Ali Malik,Male,12-A,History,46.6,66.3,1.0
+1076,Saad Abbasi,Male,10-B,Mathematics,77.8,90.8,5.7
+1069,Bilal Iqbal,Female,11-A,Science,62.2,71.5,3.5
+1274,Usman Yousaf,Female,9-A,Science,49.2,74.6,1.9
+1202,Bushra Awan,Male,10-A,Computer Science,91.9,97.6,6.5
+1175,Bushra Malik,Male,9-B,Mathematics,71.7,66.8,4.4
+1190,Noman Malik,Male,9-B,History,78.7,85.6,5.6
+1012,Kamran Javed,Female,10-B,History,55.3,68.2,4.0
+1077,Rabia Malik,Male,12-A,English,77.5,61.3,4.7
+1279,Zainab Mirza,Male,12-B,English,64.7,68.6,3.5
+1048,Sana Abbasi,Female,12-A,Computer Science,60.2,84.8,2.5
+1142,Eman Khan,Female,12-B,English,48.2,63.7,0.0
+1085,Imran Ahmed,Female,12-A,English,71.2,73.9,3.9
+1176,Nida Raza,Male,9-A,Science,61.5,75.0,2.1
+1219,Kamran Butt,Female,9-B,History,87.4,100.0,4.0
+1153,Tariq Butt,Female,12-A,Science,44.1,67.9,1.5
+1134,Noman Raza,Female,9-A,Computer Science,58.0,69.1,3.3
+1006,Bushra Butt,Male,10-B,English,74.4,80.4,4.0
+1295,Asad Ahmed,Female,12-A,Science,70.3,71.8,4.6
+1290,Fatima Awan,Male,10-B,History,73.1,86.3,5.1
+1106,Tariq Butt,Female,9-B,Computer Science,81.9,92.0,3.0
+1026,Hamza Abbasi,Male,10-A,Science,69.7,86.6,2.0
+1179,Komal Malik,Male,10-A,History,74.9,72.6,2.7
+1159,Ayesha Butt,Female,11-A,History,54.8,64.3,1.2
+1144,Junaid Malik,Female,10-B,Computer Science,71.8,77.5,3.3
+1174,Mahnoor Shah,Female,10-B,History,91.0,82.5,4.5
+1235,Warda Awan,Male,10-B,Mathematics,59.0,75.9,4.9
+1070,Ahmed Qureshi,Male,10-B,History,66.3,77.9,3.9
+1080,Zainab Malik,Male,12-B,Computer Science,56.1,72.6,3.6
+1154,Arham Abbasi,Female,11-A,Mathematics,80.3,96.1,4.2
+1019,Rimsha Butt,Male,11-B,Mathematics,69.4,79.7,3.4
+1145,Warda Sheikh,Male,10-B,Computer Science,84.5,80.1,4.7
+1268,Nida Rana,Male,9-A,Computer Science,79.0,69.1,4.9
+1053,Owais Malik,Female,12-B,English,77.0,76.2,3.4
+1180,Bushra Shah,Male,12-B,History,,59.1,0.2
+1233,Kinza Raza,Female,12-A,History,69.3,83.4,3.4
+1259,Rehan Shah,Female,10-B,Mathematics,72.5,74.2,3.5
+1030,Hassan Iqbal,Female,10-A,History,62.9,68.0,2.3
+1068,Fatima Mirza,Male,11-A,Science,73.3,75.9,2.6
+1083,Hassan Butt,Male,12-B,Computer Science,70.8,77.6,
+1079,Shahzaib Abbasi,Male,10-B,Mathematics,74.5,81.7,3.9
+1202,Bushra Awan,Male,10-A,History,100.0,97.6,6.5
+1016,Junaid Iqbal,Female,10-A,History,82.4,78.0,4.1
+1222,Fatima Hussain,Female,11-A,Mathematics,69.2,79.8,3.2
+1209,Zainab Baig,Female,12-B,Science,44.9,57.8,0.2
+1175,Bushra Malik,Male,9-B,Computer Science,63.8,66.8,4.4
+1008,Faizan Butt,Male,9-B,Mathematics,51.7,63.3,2.7
+1296,Tariq Siddiqui,Male,12-A,Computer Science,83.4,86.4,3.5
+1128,Farah Rana,Female,11-B,Science,50.9,52.2,3.6
+1108,Maria Ahmed,Female,12-A,History,75.2,86.5,2.9
+1224,Danish Yousaf,Male,10-A,Mathematics,73.3,87.7,5.2
+1065,Hira Mirza,Female,11-A,History,67.1,71.3,4.3
+1133,Usman Shah,Male,10-B,History,65.8,83.6,1.4
+1002,Zainab Yousaf,Female,12-A,Science,62.5,72.4,
+1173,Kinza Sheikh,Male,11-A,Mathematics,85.3,77.6,5.3
+1231,Ali Ahmed,Male,10-B,History,85.3,85.7,4.7
+1215,Kinza Abbasi,Female,9-B,History,55.1,78.7,3.3
+1129,Faizan Rana,Female,10-A,Computer Science,37.4,57.6,0.1
+1061,Faizan Chaudhry,Female,11-B,History,,75.1,1.3
+1263,Rehan Butt,Male,12-A,Mathematics,43.8,59.5,1.2
+1044,Iqra Malik,Male,9-A,Science,65.2,76.0,3.2
+1218,Imran Malik,Female,12-A,Science,45.1,64.7,0.0
+1080,Zainab Malik,Male,12-B,Mathematics,49.7,72.6,3.6
+1184,Iqra Hussain,Male,12-A,Computer Science,67.9,83.4,2.1
+1071,Zara Abbasi,Male,11-A,Mathematics,54.2,73.8,0.3
+1281,Sana Baig,Female,10-B,History,65.8,71.5,0.5
+1235,Warda Awan,Male,10-B,History,66.6,75.9,4.9
+1041,Laiba Yousaf,Male,11-A,English,66.0,75.7,4.5
+1206,Laiba Khan,Female,10-A,History,88.8,83.5,2.9
+1077,Rabia Malik,Male,12-A,History,73.8,61.3,4.7
+1113,Maria Abbasi,Female,12-A,Science,95.4,90.8,5.3
+1063,Sana Chaudhry,Male,11-B,Mathematics,47.5,80.1,3.3
+1196,Kinza Javed,Female,9-B,History,54.7,70.0,3.0
+1251,Zainab Abbasi,Male,12-B,English,79.6,77.7,2.2
+1081,Ali Malik,Female,12-B,Computer Science,44.9,70.5,3.1
+1108,Maria Ahmed,Female,12-A,Science,66.9,86.5,2.9
+1002,Zainab Yousaf,Female,12-A,History,62.7,72.4,1.6
+1250,Bilal Qureshi,Female,12-A,English,55.0,63.9,0.9
+1049,Javeria Javed,Male,9-B,Science,48.7,67.3,2.2
+1264,Bilal Yousaf,Female,12-A,Computer Science,44.6,59.9,1.6
+1179,Komal Malik,Male,10-A,Science,,72.6,2.7
+1247,Ali Shah,Female,9-A,Computer Science,41.3,53.1,0.0
+1240,Bushra Iqbal,Male,11-A,Computer Science,49.2,69.6,0.3
+1042,Kamran Malik,Male,11-B,Mathematics,35.9,58.3,0.0
+1165,Asad Yousaf,Male,10-B,Computer Science,70.0,75.5,2.6
+1198,Faizan Malik,Male,9-B,Mathematics,55.9,75.5,3.6
+1112,Saad Ahmed,Female,10-A,History,71.6,84.6,4.4
+1185,Rabia Malik,Male,12-B,English,49.1,65.2,0.0
+1056,Nida Rana,Female,12-A,Mathematics,75.2,76.9,5.9
+1230,Ali Malik,Male,12-A,Mathematics,45.3,66.3,1.0
+1117,Arham Khan,Male,10-A,Computer Science,47.5,,0.1
+1215,Kinza Abbasi,Female,9-B,Mathematics,52.0,78.7,3.3
+1105,Bushra Chaudhry,Female,11-B,Mathematics,58.3,79.1,3.3
+1289,Maria Javed,Male,11-A,Mathematics,63.1,86.5,3.7
+1107,Hira Mirza,Female,12-B,Computer Science,74.5,81.9,2.2
+1013,Sana Awan,Female,10-B,English,46.1,59.5,1.0
+1276,Rimsha Butt,Female,11-A,Mathematics,63.8,68.5,2.0
+1136,Maria Rana,Male,9-B,Mathematics,41.6,65.0,0.3
+1064,Junaid Abbasi,Female,10-A,Mathematics,67.6,89.0,4.1
+1197,Bushra Khan,Female,12-B,English,65.1,68.5,3.8
+1294,Saad Ahmed,Female,12-B,English,90.5,85.3,4.3
+1259,Rehan Shah,Female,10-B,Computer Science,67.7,74.2,3.5
+1108,Maria Ahmed,Female,12-A,Mathematics,66.2,86.5,2.9
+1232,Hira Farooq,Female,12-A,English,,74.8,2.8
+1253,Ali Qureshi,Female,10-A,History,48.2,77.0,2.4
+1174,Mahnoor Shah,Female,10-B,Science,75.3,82.5,4.5
+1196,Kinza Javed,Female,9-B,Science,70.5,70.0,3.0
+1151,Hassan Khan,Male,9-A,Computer Science,32.0,63.0,1.5
+1119,Kamran Yousaf,Female,12-A,History,56.0,70.7,4.0
+1031,Noman Mirza,Male,12-B,Computer Science,60.4,67.5,0.8
+1153,Tariq Butt,Female,12-A,History,60.3,67.9,1.5
+1158,Danish Rana,Male,11-A,Computer Science,60.3,76.3,1.7
+1191,Eman Butt,Male,11-A,History,53.9,65.3,2.6
+1239,Kamran Hussain,Male,12-A,English,42.0,57.6,1.1
+1038,Maria Awan,Male,10-A,History,76.9,87.6,3.8
+1038,Maria Awan,Male,10-A,Computer Science,69.0,87.6,3.8
+1211,Zainab Hussain,Female,12-B,Science,82.2,79.5,
+1115,Warda Shah,Female,11-B,Computer Science,60.6,74.3,2.9
+1248,Rabia Malik,Male,12-A,History,75.8,82.4,3.4
+1214,Rimsha Yousaf,Male,11-B,Computer Science,73.2,74.0,5.7
+1049,Javeria Javed,Male,9-B,English,58.8,67.3,
+1269,Mahnoor Butt,Female,11-B,Computer Science,64.8,65.4,3.2
+1269,Mahnoor Butt,Female,11-B,English,71.5,65.4,3.2
+1277,Faizan Hussain,Female,9-A,English,37.9,66.3,0.3
+1289,Maria Javed,Male,11-A,English,66.3,86.5,3.7
+1071,Zara Abbasi,Male,11-A,Science,51.4,,0.3
+1009,Rimsha Hussain,Male,12-A,Science,26.1,68.9,0.7
+1251,Zainab Abbasi,Male,12-B,Mathematics,52.3,77.7,2.2
+1206,Laiba Khan,Female,10-A,Computer Science,79.3,83.5,2.9
+1257,Shahzaib Chaudhry,Female,9-B,Mathematics,,71.1,2.3
+1153,Tariq Butt,Female,12-A,Computer Science,56.1,67.9,1.5
+1020,Farah Siddiqui,Female,10-A,Computer Science,44.4,55.5,0.0
+1058,Danish Ahmed,Male,12-B,Science,32.0,66.6,1.3
+1170,Zainab Javed,Female,11-A,Mathematics,46.4,63.7,0.6
+1202,Bushra Awan,Male,10-A,English,99.8,97.6,6.5
+1243,Tariq Ahmed, male ,9-B,History,88.4,83.3,4.4
+1242,Faizan Butt,Female,12-B,English,88.1,93.3,
+1113,Maria Abbasi,Female,12-A,History,89.4,90.8,5.3
+1097,Mahnoor Baig,Female,11-B,Computer Science,63.1,80.2,2.8
+1220,Kamran Yousaf,Female,9-A,History,74.3,76.4,2.9
+1042,Kamran Malik,Male,11-B,History,36.4,58.3,0.0
+1017,Warda Awan,Male,10-B,History,63.9,74.7,3.2
+1226,Rimsha Hussain,Male,10-A,English,84.4,85.3,3.6
+1051,Zainab Raza,Male,9-B,Mathematics,54.3,77.2,5.1
+1249,Eman Yousaf,Male,9-A,English,62.4,83.6,3.0
+1016,Junaid Iqbal,Female,10-A,Science,67.7,78.0,4.1
+1046,Usman Khan,Female,11-A,History,75.8,69.9,3.3
+1276,Rimsha Butt,Female,11-A,English,60.6,68.5,2.0
+1246,Zainab Chaudhry,Male,10-A,Science,77.3,79.2,3.9
+1123,Ayesha Javed,Female,9-A,English,60.9,66.2,2.8
+1217,Arham Butt,Male,9-A,English,66.4,69.2,3.3
+1115,Warda Shah,Female,11-B,Science,46.4,74.3,2.9
+1269,Mahnoor Butt,Female,11-B,Science,63.9,65.4,3.2
+1128,Farah Rana,Female,11-B,Computer Science,58.9,52.2,3.6
+1223,Ahmed Yousaf,Male,12-B,History,73.8,83.9,3.5
+1135,Sana Hussain,Female,12-B,Computer Science,65.7,,2.6
+1088,Bilal Baig,Female,12-B,Computer Science,34.0,66.3,0.0
+1084,Fatima Ahmed,Female,11-A,Computer Science,36.0,55.7,0.0
+1223,Ahmed Yousaf,Male,12-B,Computer Science,56.5,83.9,3.5
+1167,Fatima Awan,Male,9-B,History,54.6,63.0,3.2
+1150,Saad Khan,Male,9-B,Science,70.2,78.2,4.3
+1271,Usman Sheikh,Male,9-A,Mathematics,68.2,83.6,4.6
+1139,Mahnoor Javed,Female,10-B,Computer Science,76.9,87.5,3.2
+1041,Laiba Yousaf,Male,11-A,Mathematics,52.3,75.7,4.5
+1070,Ahmed Qureshi,Male,10-B,Computer Science,69.9,77.9,3.9
+1176,Nida Raza,Male,9-A,English,67.7,75.0,2.1
+1296,Tariq Siddiqui,Male,12-A,Mathematics,57.6,86.4,3.5
+1181,Rabia Malik,Female,10-A,Computer Science,58.0,56.5,0.4
+1209,Zainab Baig,Female,12-B,History,23.9,57.8,0.2
+1252,Tariq Malik,Female,10-A,English,79.7,89.3,5.3
+1129,Faizan Rana,Female,10-A,Mathematics,36.5,57.6,0.1
+1072,Asad Ahmed,Male,11-B,Mathematics,75.2,78.3,5.1
+1139,Mahnoor Javed,Female,10-B,English,74.5,87.5,3.2
+1099,Hassan Baig,Female,12-B,History,86.6,79.3,3.6
+1037,Iqra Rana,Male,12-B,Mathematics,83.4,85.1,3.6
+1049,Javeria Javed,Male,9-B,Computer Science,69.3,67.3,2.2
+1165,Asad Yousaf,Male,10-B,Science,58.1,75.5,2.6
+1055,Sana Qureshi,Female,11-B,Computer Science,76.4,78.4,3.3
+1079,Shahzaib Abbasi,Male,10-B,English,71.1,81.7,3.9
+1045,Eman Abbasi,Female,11-B,Mathematics,69.9,84.8,3.9
+1047,Nida Hussain,Male,12-B,Computer Science,83.8,84.9,5.1
+1007,Owais Baig,Male,12-B,Computer Science,48.0,66.0,
+1018,Danish Ahmed,Female,11-B,Mathematics,62.9,76.1,3.6
+1032,Rehan Awan,Male,10-A,Science,56.5,87.9,3.5
+1246,Zainab Chaudhry,Male,10-A,History,80.6,79.2,3.9
+1272,Rabia Yousaf,Male,9-A,English,80.7,96.5,3.6
+1224,Danish Yousaf,Male,10-A,History,71.6,87.7,5.2
+1073,Nida Sheikh,Female,12-B,History,57.8,78.5,2.3
+1167,Fatima Awan,Male,9-B,Science,52.2,63.0,3.2
+1077,Rabia Malik,Male,12-A,Mathematics,65.2,61.3,4.7
+1276,Rimsha Butt,Female,11-A,History,56.4,68.5,2.0
+1268,Nida Rana,Male,9-A,History,79.3,69.1,4.9
+1102,Ayesha Baig,Female,9-A,Computer Science,30.6,50.1,2.0
+1014,Arham Qureshi,Male,11-A,English,72.1,79.3,3.5
+1271,Usman Sheikh,Male,9-A,History,73.6,83.6,4.6
+1179,Komal Malik,Male,10-A,Computer Science,60.3,72.6,2.7
+1163,Fatima Raza,Female,12-A,English,73.4,70.2,1.8
+1161,Rabia Farooq,Male,11-A,Science,57.0,69.3,1.3
+1127,Sana Khan,Female,11-A,Science,56.9,72.9,1.6
+1095,Fatima Hussain,Female,9-B,Science,33.9,51.7,0.0
+1186,Saad Butt,Female,10-B,Science,74.9,75.7,4.9
+1079,Shahzaib Abbasi,Male,10-B,History,66.0,,3.9
+1276,Rimsha Butt,Female,11-A,Computer Science,51.5,,2.0
+1184,Iqra Hussain,Male,12-A,Science,,83.4,2.1
+1070,Ahmed Qureshi,Male,10-B,English,84.4,77.9,3.9
+1166,Noman Farooq,Male,10-B,Mathematics,47.9,71.8,1.7
+1066,Ali Raza,Female,11-B,Computer Science,73.2,80.5,3.7
+1027,Faizan Butt,Male,12-B,Computer Science,56.3,63.6,3.3
+1227,Hira Rana,Male,9-B,English,65.0,82.4,2.7
+1002,Zainab Yousaf,Female,12-A,Computer Science,60.6,72.4,1.6
+1250,Bilal Qureshi,Female,12-A,History,68.1,63.9,0.9
+1173,Kinza Sheikh,Male,11-A,History,79.6,77.6,5.3
+1003,Zara Chaudhry,Male,12-B,Mathematics,59.8,82.3,3.6
+1132,Danish Qureshi,Male,12-B,Computer Science,55.7,54.4,1.5
+1199,Kinza Sheikh,Male,11-B,English,81.6,81.4,2.7
+1187,Eman Rana,Female,12-A,Mathematics,45.3,70.5,3.4
+1209,Zainab Baig,Female,12-B,Computer Science,48.7,57.8,0.2
+1057,Kinza Qureshi, female ,10-B,Computer Science,50.0,62.2,3.4
+1141,Laiba Malik,Male,11-B,English,48.7,73.5,2.2
+1075,Nida Chaudhry,Male,11-B,Mathematics,45.9,64.1,2.3
+1242,Faizan Butt,Female,12-B,History,97.8,93.3,4.7
+1120,Hassan Hussain,Female,11-A,History,999.0,86.6,1.8
+1026,Hamza Abbasi,Male,10-A,Mathematics,73.6,86.6,2.0
+1082,Farah Rana,Female,9-A,English,59.8,68.3,
+1289,Maria Javed,Male,11-A,Science,71.7,86.5,3.7
+1257,Shahzaib Chaudhry,Female,9-B,Science,45.1,71.1,2.3
+1188,Maria Raza,Male,9-B,Mathematics,56.9,68.8,1.2
+1109,Laiba Butt,Male,12-B,Science,64.2,69.2,4.4
+1028,Kamran Khan,Male,12-B,Computer Science,48.9,68.8,2.7
+1053,Owais Malik,Female,12-B,Mathematics,63.7,76.2,3.4
+1095,Fatima Hussain,Female,9-B,History,31.6,51.7,0.0
+1034,Zainab Chaudhry,Male,12-A,Mathematics,74.8,76.3,5.2
+1046,Usman Khan,Female,11-A,Science,61.5,69.9,3.3
+1255,Shahzaib Qureshi,Male,10-B,Science,62.1,73.1,2.6
+1039,Ahmed Shah,Female,9-B,Science,76.0,98.5,4.9
+1062,Fatima Hussain,Female,9-B,Science,49.1,67.9,0.6
+1130,Zainab Rana,Female,9-B,English,69.1,82.8,2.0
+1231,Ali Ahmed,Male,10-B,English,85.8,85.7,4.7
+1265,Mahnoor Chaudhry,Male,9-A,Computer Science,68.7,84.4,3.5
+1097,Mahnoor Baig,Female,11-B,English,68.3,80.2,2.8
+1244,Ali Raza,Female,9-A,History,-5.0,61.5,1.8
+1220,Kamran Yousaf,Female,9-A,English,59.7,76.4,2.9
+1227,Hira Rana,Male,9-B,Mathematics,50.6,82.4,2.7
+1065,Hira Mirza,Female,11-A,Mathematics,,71.3,4.3
+1005,Fatima Javed,Female,10-A,History,85.3,83.9,4.1
+1260,Saad Khan,Female,11-B,Computer Science,67.0,76.6,4.9
+1004,Tariq Raza,Male,11-A,English,47.1,72.6,1.7
+1126,Omar Mirza,Male,9-A,History,53.0,78.8,1.7
+1087,Bilal Rana,Male,9-B,Mathematics,32.9,57.8,0.6
+1296,Tariq Siddiqui,Male,12-A,English,72.5,86.4,3.5
+1255,Shahzaib Qureshi,Male,10-B,History,69.7,73.1,2.6
+1268,Nida Rana,Male,9-A,Mathematics,64.3,69.1,4.9
+1289,Maria Javed,Male,11-A,History,69.7,86.5,3.7
+1273,Noman Hussain,Male,10-B,Computer Science,64.3,75.4,2.3
+1042,Kamran Malik,Male,11-B,English,,58.3,0.0
+1048,Sana Abbasi,Female,12-A,English,67.8,84.8,
+1182,Nida Siddiqui,Male,11-A,Science,45.2,72.0,2.1
+1070,Ahmed Qureshi,Male,10-B,Mathematics,71.2,77.9,3.9
+1206,Laiba Khan,Female,10-A,Science,89.1,83.5,2.9
+1171,Junaid Javed,Female,9-A,History,87.7,97.4,4.5
+1069,Bilal Iqbal,Female,11-A,Mathematics,40.1,71.5,3.5
+1126,Omar Mirza,Male,9-A,Computer Science,59.0,78.8,1.7
+1092,Zainab Awan,Male,11-B,English,75.6,86.2,4.3
+1036,Zainab Khan,Male,10-B,Mathematics,36.3,65.8,3.2
+1110,Hamza Abbasi,Female,11-A,Computer Science,28.5,51.1,0.0
+1061,Faizan Chaudhry,Female,11-B,Mathematics,65.9,75.1,1.3
+1092,Zainab Awan,Male,11-B,Computer Science,76.1,86.2,4.3
+1260,Saad Khan,Female,11-B,Science,74.9,76.6,4.9
+1130,Zainab Rana,Female,9-B,Computer Science,78.2,82.8,2.0
+1140,Javeria Mirza,Female,12-B,Mathematics,56.9,68.6,3.4
+1163,Fatima Raza,Female,12-A,Mathematics,61.2,70.2,1.8
+1260,Saad Khan,Female,11-B,English,72.8,76.6,4.9
+1257,Shahzaib Chaudhry,Female,9-B,English,57.7,71.1,2.3
+1141,Laiba Malik,Male,11-B,Science,58.4,73.5,2.2
+1278,Zara Iqbal,Male,12-B,Mathematics,74.6,93.1,5.9
+1093,Farah Hussain,Female,10-B,History,81.4,92.0,5.9
+1212,Iqra Rana,Male,10-A,Mathematics,82.9,87.0,4.4
+1066,Ali Raza,Female,11-B,Science,66.8,,3.7
+1256,Shahzaib Sheikh,Male,10-B,Computer Science,98.9,86.0,6.5
+1224,Danish Yousaf,Male,10-A,Computer Science,91.3,87.7,5.2
+1198,Faizan Malik,Male,9-B,English,77.6,75.5,3.6
+1251,Zainab Abbasi,Male,12-B,Science,53.4,77.7,2.2
+1012,Kamran Javed,Female,10-B,Computer Science,71.4,68.2,4.0
+1003,Zara Chaudhry,Male,12-B,History,62.6,82.3,3.6
+1022,Javeria Baig,Female,10-B,Mathematics,45.0,67.7,2.3
+1172,Hira Yousaf,Female,10-B,History,99.2,88.5,5.4
+1201,Warda Mirza,Female,9-A,Computer Science,45.0,65.8,
+1162,Eman Iqbal,Male,11-B,English,61.4,60.0,1.9
+1195,Arham Ahmed,Female,10-A,English,67.1,84.6,2.4
+1207,Bushra Raza,Female,11-B,English,69.2,73.8,2.7
+1121,Fatima Iqbal,Female,11-B,History,42.5,54.1,0.3
+1065,Hira Mirza,Female,11-A,English,68.8,71.3,4.3
+1203,Omar Hussain,Female,11-A,Science,69.4,81.9,4.2
+1089,Ahmed Khan,Male,12-B,Science,43.9,65.9,0.0
+1294,Saad Ahmed,Female,12-B,Science,93.8,85.3,4.3
+1148,Mahnoor Raza,Female,10-B,English,56.3,76.4,2.1
+1111,Iqra Mirza,Female,11-B,Computer Science,63.7,72.0,
+1052,Komal Ahmed,Male,11-A,Science,57.3,88.1,2.3
+1113,Maria Abbasi,Female,12-A,Mathematics,,90.8,5.3
+1142,Eman Khan,Female,12-B,Mathematics,44.6,63.7,0.0
+1284,Kamran Yousaf,Female,9-B,Mathematics,46.8,77.0,1.1
+1178,Eman Khan,Male,10-B,History,66.1,81.2,1.7
+1015,Warda Raza,Male,10-B,English,42.5,58.0,0.2
+1052,Komal Ahmed,Male,11-A,English,70.5,88.1,2.3
+1202,Bushra Awan,Male,10-A,Mathematics,86.1,97.6,6.5
+1001,Bilal Javed,Female,10-B,English,75.0,86.6,1.6
+1276,Rimsha Butt,Female,11-A,Science,54.3,68.5,2.0
+1235,Warda Awan,Male,10-B,Science,55.1,75.9,4.9
+1137,Warda Baig,Male,11-A,History,71.2,72.9,1.8
+1074,Zainab Sheikh,Male,9-B,English,63.6,84.1,2.2
+1227,Hira Rana,Male,9-B,Computer Science,54.2,82.4,2.7
+1298,Noman Farooq,Male,11-B,Science,49.8,55.6,0.0
+1096,Kamran Hussain,Male,10-B,Computer Science,77.6,78.1,4.9
+1200,Ayesha Abbasi,Female,12-B,Science,29.4,64.1,1.9
+1137,Warda Baig,Male,11-A,English,76.9,72.9,1.8
+1210,Ayesha Sheikh,Female,12-B,English,69.0,73.6,3.8
+1118,Hassan Siddiqui,Female,10-B,Mathematics,50.7,75.2,0.0
+1024,Tariq Rana,Male,12-A,English,62.4,72.2,2.3
+1212,Iqra Rana,Male,10-A,English,71.3,87.0,4.4
+1002,Zainab Yousaf,Female,12-A,Mathematics,48.7,72.4,1.6
+1282,Hamza Chaudhry,Male,9-A,English,51.6,68.3,0.5
+1216,Tariq Qureshi,Male,10-B,Science,71.2,83.9,6.2
+1283,Hamza Shah,Female,11-A,History,50.1,73.4,0.0
+1194,Hassan Baig,Male,10-B,History,76.1,81.5,2.2
+1141,Laiba Malik,Male,11-B,History,53.8,73.5,2.2
+1090,Bushra Butt,Male,12-B,Mathematics,43.3,72.3,1.9
+1028,Kamran Khan,Male,12-B,Science,71.7,68.8,2.7
+1003,Zara Chaudhry,Male,12-B,Science,65.9,82.3,3.6
+1213,Hassan Sheikh,Female,9-B,Mathematics,54.9,74.0,1.2
+1067,Saad Baig,Female,9-A,English,45.6,62.0,0.0
+1121,Fatima Iqbal,Female,11-B,Computer Science,47.6,54.1,0.3
+1114,Laiba Qureshi,Male,12-A,History,49.2,59.7,1.3
+1217,Arham Butt,Male,9-A,History,67.8,69.2,3.3
+1205,Javeria Malik,Female,9-A,Computer Science,85.6,78.1,4.8
+1291,Asad Shah,Female,9-B,History,61.4,58.2,2.2
+1011,Iqra Butt,Female,9-A,Computer Science,80.8,81.1,1.6
+1177,Usman Raza,Female,9-B,Mathematics,65.6,68.2,
+1047,Nida Hussain,Male,12-B,History,91.1,84.9,5.1
+1017,Warda Awan,Male,10-B,Computer Science,64.4,74.7,3.2
+1129,Faizan Rana,Female,10-A,Science,35.0,57.6,0.1
+1272,Rabia Yousaf,Male,9-A,History,86.5,96.5,3.6
+1013,Sana Awan,Female,10-B,Computer Science,52.0,59.5,1.0
+1247,Ali Shah,Female,9-A,Mathematics,37.0,53.1,0.0
+1038,Maria Awan,Male,10-A,English,105.0,87.6,3.8
+1164,Zainab Chaudhry, female ,11-B,Science,99.7,91.9,4.5
+1031,Noman Mirza,Male,12-B,Science,49.6,67.5,0.8
+1232,Hira Farooq,Female,12-A,History,88.4,74.8,2.8
+1204,Maria Hussain,Male,11-B,Science,53.2,66.7,2.8
+1078,Ali Awan,Female,9-A,History,78.1,75.9,3.2
+1028,Kamran Khan,Male,12-B,English,43.8,68.8,2.7
+1035,Kinza Iqbal,Female,11-A,English,71.8,70.7,3.5
+1159,Ayesha Butt,Female,11-A,Mathematics,45.3,64.3,1.2
+1107,Hira Mirza,Female,12-B,Mathematics,49.5,81.9,2.2
+1166,Noman Farooq,Male,10-B,English,58.5,71.8,1.7
+1092,Zainab Awan,Male,11-B,Mathematics,87.9,86.2,4.3
+1236,Shahzaib Rana,Male,9-B,History,48.2,63.3,1.2
+1229,Junaid Javed,Male,9-A,Science,55.7,83.5,2.5
+1119,Kamran Yousaf,Female,12-A,Computer Science,57.2,70.7,4.0
+1212,Iqra Rana,Male,10-A,Computer Science,85.0,87.0,4.4
+1223,Ahmed Yousaf,Male,12-B,English,73.1,83.9,3.5
+1075,Nida Chaudhry,Male,11-B,Computer Science,58.7,64.1,2.3
+1275,Omar Khan,Male,12-B,History,55.9,66.8,
+1195,Arham Ahmed,Female,10-A,Mathematics,52.5,84.6,2.4
+1142,Eman Khan,Female,12-B,Computer Science,53.3,63.7,0.0
+1033,Laiba Malik,Female,12-B,Mathematics,31.3,59.7,0.6
+1253,Ali Qureshi,Female,10-A,Computer Science,66.8,77.0,2.4
+1011,Iqra Butt,Female,9-A,Mathematics,65.6,81.1,1.6
+1232,Hira Farooq,Female,12-A,Computer Science,78.6,74.8,2.8
+1214,Rimsha Yousaf,Male,11-B,History,58.6,74.0,5.7
+1135,Sana Hussain,Female,12-B,Mathematics,58.7,69.4,2.6
+1007,Owais Baig,Male,12-B,English,68.0,66.0,3.1
+1048,Sana Abbasi,Female,12-A,History,74.8,84.8,2.5
+1148,Mahnoor Raza,Female,10-B,Science,52.1,76.4,2.1
+1071,Zara Abbasi,Male,11-A,Computer Science,58.0,73.8,0.3
+1033,Laiba Malik,Female,12-B,Computer Science,36.1,59.7,0.6
+1098,Maria Farooq,Male,10-B,Science,67.7,90.6,3.3
+1246,Zainab Chaudhry,Male,10-A,English,59.4,79.2,3.9
+1201,Warda Mirza,Female,9-A,Mathematics,53.5,65.8,0.8
+1172,Hira Yousaf,Female,10-B,Computer Science,96.7,88.5,5.4
+1060,Nida Malik,Female,11-A,Mathematics,59.7,85.0,0.1
+1205,Javeria Malik,Female,9-A,History,81.5,78.1,4.8
+1095,Fatima Hussain,Female,9-B,Computer Science,36.7,51.7,0.0
+1198,Faizan Malik,Male,9-B,Science,60.2,75.5,3.6
+1095,Fatima Hussain,Female,9-B,English,24.7,51.7,0.0
+1206,Laiba Khan,Female,10-A,English,86.0,83.5,2.9
+1165,Asad Yousaf,Male,10-B,Mathematics,58.9,75.5,2.6
+1248,Rabia Malik,Male,12-A,History,75.8,82.4,3.4
+1185,Rabia Malik,Male,12-B,Mathematics,37.0,65.2,0.0
+1020,Farah Siddiqui,Female,10-A,English,51.2,55.5,0.0
+1216,Tariq Qureshi,Male,10-B,History,100.0,83.9,6.2
+1116,Javeria Khan,Female,12-B,Science,63.7,80.5,2.0
+1267,Eman Malik,Female,12-A,English,57.4,72.0,2.8
+1145,Warda Sheikh,Male,10-B,Mathematics,68.2,80.1,4.7
+1262,Rimsha Sheikh,Female,12-B,History,92.3,96.0,5.8
+1111,Iqra Mirza,Female,11-B,Mathematics,67.0,72.0,2.6
+1062,Fatima Hussain,Female,9-B,History,47.4,67.9,0.6
+1168,Owais Rana,Female,12-B,Computer Science,42.6,53.0,0.0
+1166,Noman Farooq,Male,10-B,History,66.4,71.8,1.7
+1135,Sana Hussain,Female,12-B,English,60.2,69.4,2.6
+1188,Maria Raza,Male,9-B,Science,44.2,68.8,1.2
+1087,Bilal Rana,Male,9-B,History,23.9,57.8,0.6
+1117,Arham Khan,Male,10-A,English,53.6,,0.1
+1296,Tariq Siddiqui,Male,12-A,History,72.0,86.4,3.5
+1215,Kinza Abbasi,Female,9-B,Science,65.0,78.7,3.3
+1240,Bushra Iqbal,Male,11-A,History,34.6,69.6,0.3
+1197,Bushra Khan,Female,12-B,Computer Science,59.3,68.5,3.8
+1090,Bushra Butt,Male,12-B,History,63.7,72.3,1.9
+1154,Arham Abbasi,Female,11-A,Science,75.6,96.1,4.2
+1114,Laiba Qureshi,Male,12-A,English,53.0,59.7,1.3
+1124,Sana Mirza,Male,9-A,Computer Science,51.8,64.7,0.0
+1239,Kamran Hussain,Male,12-A,Computer Science,41.5,57.6,1.1
+1099,Hassan Baig,Female,12-B,English,76.5,79.3,3.6
+1078,Ali Awan,Female,9-A,Mathematics,75.8,75.9,3.2
+1149,Imran Shah,Male,9-A,Science,42.4,68.7,1.6
+1057,Kinza Qureshi,Female,10-B,Science,999.0,62.2,3.4
+1150,Saad Khan,Male,9-B,Mathematics,68.8,78.2,4.3
+1265,Mahnoor Chaudhry,Male,9-A,English,,84.4,3.5
+1097,Mahnoor Baig,Female,11-B,History,67.5,80.2,2.8
+1224,Danish Yousaf,Male,10-A,English,88.1,87.7,5.2
+1057,Kinza Qureshi,Female,10-B,English,54.9,62.2,3.4
+1088,Bilal Baig,Female,12-B,English,53.5,66.3,0.0
+1082,Farah Rana,Female,9-A,Science,46.0,68.3,2.3
+1157,Asad Butt,Female,11-B,Mathematics,73.1,98.8,6.8
+1110,Hamza Abbasi,Female,11-A,History,34.3,51.1,0.0
+1171,Junaid Javed,Female,9-A,English,90.8,97.4,4.5
+1270,Mahnoor Abbasi,Female,11-A,English,60.9,61.5,1.8
+1157,Asad Butt,Female,11-B,English,97.7,98.8,6.8
+1164,Zainab Chaudhry,Female,11-B,English,81.5,91.9,4.5
+1217,Arham Butt,Male,9-A,Science,52.4,69.2,3.3
+1191,Eman Butt,Male,11-A,English,47.0,65.3,2.6
+1135,Sana Hussain,Female,12-B,History,57.6,69.4,2.6
+1289,Maria Javed,Male,11-A,Computer Science,68.4,86.5,3.7
+1138,Kamran Sheikh,Male,9-B,Science,100.0,96.6,6.6
+1254,Omar Shah,Female,12-B,History,64.5,64.3,3.9
+1287,Zara Mirza,Female,11-A,Computer Science,51.2,70.0,2.6
+1151,Hassan Khan,Male,9-A,English,31.4,63.0,1.5
+1025,Eman Qureshi,Male,11-B,Science,57.2,67.9,1.9
+1240,Bushra Iqbal,Male,11-A,Science,54.0,69.6,0.3
+1140,Javeria Mirza,Female,12-B,Computer Science,59.0,68.6,3.4
+1267,Eman Malik,Female,12-A,History,55.6,72.0,2.8
+1170,Zainab Javed,Female,11-A,Science,29.2,63.7,0.6
+1004,Tariq Raza,Male,11-A,Science,52.5,72.6,1.7
+1300,Nida Iqbal,Female,9-A,Science,41.3,61.0,3.2
+1156,Kinza Sheikh,Female,9-A,History,77.9,67.0,3.5
+1200,Ayesha Abbasi,Female,12-B,English,50.1,64.1,1.9
+1271,Usman Sheikh,Male,9-A,English,88.4,83.6,4.6
+1208,Kamran Iqbal,Male,11-B,English,84.6,80.0,4.2
+1187,Eman Rana,Female,12-A,Science,64.6,70.5,3.4
+1059,Imran Yousaf,Male,12-A,History,,77.4,3.0
+1181,Rabia Malik,Female,10-A,English,44.5,56.5,0.4
+1008,Faizan Butt,Male,9-B,Computer Science,41.6,63.3,2.7
+1022,Javeria Baig,Female,10-B,Science,41.9,67.7,2.3
+1146,Rabia Rana,Male,9-A,Science,51.5,66.0,0.8
+1005,Fatima Javed,Female,10-A,History,85.3,83.9,4.1
+1143,Arham Ahmed,Female,10-B,Mathematics,63.5,80.1,2.4
+1014,Arham Qureshi,Male,11-A,Computer Science,78.4,79.3,3.5
+1204,Maria Hussain,Male,11-B,Mathematics,67.5,66.7,2.8
+1086,Hassan Mirza,Male,9-A,Mathematics,43.5,77.0,2.1
+1297,Faizan Awan,Female,12-B,History,52.9,70.9,3.1
+1267,Eman Malik,Female,12-A,Mathematics,48.9,72.0,2.8
+1021,Noman Shah,Male,11-B,History,57.0,79.8,2.1
+1112,Saad Ahmed,Female,10-A,Mathematics,77.7,84.6,4.4
+1246,Zainab Chaudhry,Male,10-A,Computer Science,76.7,79.2,3.9
+1258,Zainab Mirza,Female,12-B,English,94.0,83.8,5.7
+1224,Danish Yousaf,Male,10-A,Science,89.7,87.7,5.2
+1190,Noman Malik,Male,9-B,Mathematics,80.7,85.6,5.6
+1284,Kamran Yousaf,Female,9-B,Computer Science,66.0,77.0,1.1
+1015,Warda Raza,Male,10-B,Computer Science,34.9,58.0,0.2
+1102,Ayesha Baig,Female,9-A,English,36.8,50.1,2.0
+1274,Usman Yousaf,Female,9-A,History,62.7,74.6,1.9
+1044,Iqra Malik,Male,9-A,History,60.3,76.0,3.2
+1268,Nida Rana,Male,9-A,Science,59.8,69.1,4.9
+1217,Arham Butt,Male,9-A,Mathematics,52.6,69.2,3.3
+1054,Tariq Malik,Female,9-A,Mathematics,50.6,74.3,2.0
+1189,Maria Farooq,Male,10-B,Mathematics,45.3,76.1,2.5
+1277,Faizan Hussain,Female,9-A,Science,42.9,66.3,0.3
+1087,Bilal Rana,Male,9-B,Computer Science,51.7,57.8,0.6
+1023,Eman Abbasi,Female,9-B,Mathematics,56.2,79.9,2.9
+1103,Asad Butt,Male,11-A,Mathematics,38.5,45.2,0.4
+1009,Rimsha Hussain,Male,12-A,Mathematics,34.4,68.9,0.7
+1101,Hassan Ahmed,Male,10-A,Computer Science,69.0,76.8,4.7
+1056,Nida Rana,Female,12-A,Science,84.8,76.9,5.9
+1162,Eman Iqbal,Male,11-B,Computer Science,32.4,60.0,1.9
+1068,Fatima Mirza,Male,11-A,Computer Science,69.8,75.9,2.6
+1227,Hira Rana,Male,9-B,Science,70.0,82.4,2.7
+1178,Eman Khan,Male,10-B,English,70.6,81.2,1.7
+1238,Tariq Khan,Female,9-A,Computer Science,43.3,54.4,1.4
+1038,Maria Awan,Male,10-A,Mathematics,64.1,87.6,3.8
+1160,Arham Yousaf,Female,11-A,History,63.7,76.6,3.1
+1219,Kamran Butt,Female,9-B,English,97.5,100.0,4.0
+1149,Imran Shah,Male,9-A,Computer Science,43.1,68.7,1.6
+1189,Maria Farooq,Male,10-B,History,61.3,76.1,2.5
+1230,Ali Malik,Male,12-A,English,63.6,66.3,1.0
+1203,Omar Hussain,Female,11-A,English,84.7,81.9,4.2
+1013,Sana Awan,Female,10-B,Science,45.3,59.5,1.0
+1186,Saad Butt,Female,10-B,Mathematics,59.3,75.7,4.9
+1116,Javeria Khan,Female,12-B,History,66.9,80.5,2.0
+1160,Arham Yousaf,Female,11-A,English,81.8,76.6,3.1
+1132,Danish Qureshi,Male,12-B,Mathematics,39.4,54.4,1.5
+1203,Omar Hussain,Female,11-A,History,73.0,81.9,4.2
+1078,Ali Awan,Female,9-A,English,86.4,75.9,3.2
+1026,Hamza Abbasi,Male,10-A,English,72.5,86.6,2.0
+1286,Eman Qureshi,Male,12-B,Mathematics,71.9,80.2,4.5
+1051,Zainab Raza,Male,9-B,Science,56.8,77.2,5.1
+1260,Saad Khan,Female,11-B,History,78.3,76.6,4.9
+1109,Laiba Butt,Male,12-B,History,73.2,69.2,4.4
+1062,Fatima Hussain,Female,9-B,English,35.2,67.9,0.6
+1039,Ahmed Shah,Female,9-B,History,94.4,,4.9
+1130,Zainab Rana,Female,9-B,Science,83.2,82.8,2.0
+1101,Hassan Ahmed,Male,10-A,English,999.0,76.8,4.7
+1007,Owais Baig,Male,12-B,History,46.8,66.0,3.1
+1226,Rimsha Hussain,Male,10-A,Mathematics,72.5,85.3,3.6
+1161,Rabia Farooq,Male,11-A,Mathematics,63.5,69.3,1.3
+1185,Rabia Malik,Male,12-B,Computer Science,39.1,65.2,0.0
+1012,Kamran Javed,Female,10-B,English,51.0,68.2,4.0
+1200,Ayesha Abbasi,Female,12-B,Mathematics,41.9,64.1,1.9
+1072,Asad Ahmed,Male,11-B,History,90.9,78.3,5.1
+1263,Rehan Butt,Male,12-A,History,35.8,59.5,1.2
+1010,Sana Mirza,Female,10-B,Mathematics,73.1,82.0,3.6
+1240,Bushra Iqbal,Male,11-A,English,,69.6,0.3
+1229,Junaid Javed,Male,9-A,English,76.2,83.5,2.5
+1177,Usman Raza,Female,9-B,Science,49.6,68.2,2.4
+1014,Arham Qureshi,Male,11-A,History,80.5,79.3,3.5
+1064,Junaid Abbasi,Female,10-A,History,72.0,89.0,4.1
+1059,Imran Yousaf,Male,12-A,Science,66.5,77.4,3.0
+1010,Sana Mirza,Female,10-B,Science,75.9,82.0,3.6
+1056,Nida Rana,Female,12-A,English,93.7,76.9,5.9
+1279,Zainab Mirza,Male,12-B,Computer Science,71.0,68.6,3.5
+1060,Nida Malik,Female,11-A,English,66.1,85.0,0.1
+1045,Eman Abbasi,Female,11-B,Computer Science,84.5,84.8,
+1173,Kinza Sheikh,Male,11-A,Computer Science,85.6,77.6,5.3
+1186,Saad Butt,Female,10-B,Computer Science,72.1,75.7,4.9
+1218,Imran Malik,Female,12-A,Computer Science,50.0,64.7,0.0
+1218,Imran Malik,Female,12-A,Mathematics,35.1,64.7,0.0
+1073,Nida Sheikh,Female,12-B,Computer Science,58.2,78.5,2.3
+1086,Hassan Mirza,Male,9-A,English,59.7,77.0,2.1
+1169,Kinza Rana,Female,10-B,Mathematics,57.1,81.3,0.0
+1074,Zainab Sheikh,Male,9-B,Science,66.7,84.1,2.2
+1001,Bilal Javed,Female,10-B,Mathematics,70.3,86.6,1.6
+1155,Eman Sheikh,Female,12-A,History,59.3,86.0,4.3
+1169,Kinza Rana,Female,10-B,English,69.2,81.3,0.0
+1212,Iqra Rana,Male,10-A,History,85.9,87.0,4.4
+1014,Arham Qureshi,Male,11-A,Science,60.2,79.3,3.5
+1287,Zara Mirza,Female,11-A,History,34.0,70.0,2.6
+1007,Owais Baig,Male,12-B,Science,60.6,66.0,3.1
+1174,Mahnoor Shah,Female,10-B,English,76.7,82.5,4.5
+1219,Kamran Butt,Female,9-B,Science,86.6,100.0,4.0
+1231,Ali Ahmed,Male,10-B,Computer Science,92.2,,4.7
+1006,Bushra Butt,Male,10-B,History,87.6,80.4,4.0
+1059,Imran Yousaf,Male,12-A,Computer Science,76.8,77.4,3.0
+1249,Eman Yousaf,Male,9-A,Mathematics,68.8,83.6,3.0
+1023,Eman Abbasi,Female,9-B,History,66.8,79.9,2.9
+1050,Danish Chaudhry,Female,10-B,Mathematics,54.9,63.7,1.1
+1084,Fatima Ahmed,Female,11-A,Mathematics,34.5,55.7,0.0
+1154,Arham Abbasi,Female,11-A,Computer Science,97.8,96.1,4.2
+1033,Laiba Malik,Female,12-B,Science,47.1,59.7,0.6
+1136,Maria Rana,Male,9-B,History,48.1,65.0,0.3
+1083,Hassan Butt,Male,12-B,Science,64.2,77.6,3.5
+1236,Shahzaib Rana,Male,9-B,Science,47.3,63.3,1.2
+1008,Faizan Butt,Male,9-B,History,54.0,63.3,2.7
+1024,Tariq Rana,Male,12-A,Science,58.0,72.2,2.3
+1290,Fatima Awan,Male,10-B,Science,84.1,86.3,5.1
+1001,Bilal Javed,Female,10-B,Science,73.1,86.6,1.6
+1291,Asad Shah,Female,9-B,English,63.3,58.2,2.2
+1050,Danish Chaudhry,Female,10-B,English,57.5,63.7,1.1
+1278,Zara Iqbal,Male,12-B,English,100.0,93.1,5.9
+1134,Noman Raza,Female,9-A,Mathematics,47.2,69.1,3.3
+1288,Danish Ahmed,Male,9-B,Science,88.9,88.8,4.3
+1228,Laiba Farooq,Male,9-A,History,66.0,78.6,2.7
+1277,Faizan Hussain,Female,9-A,History,63.8,66.3,0.3
+1019,Rimsha Butt,Male,11-B,English,78.6,79.7,3.4
+1077,Rabia Malik,Male,12-A,Science,55.0,61.3,4.7
+1023,Eman Abbasi,Female,9-B,Computer Science,73.5,79.9,2.9
+1244,Ali Raza,Female,9-A,Mathematics,49.8,61.5,1.8
+1219,Kamran Butt,Female,9-B,Computer Science,84.6,100.0,4.0
+1051,Zainab Raza,Male,9-B,Computer Science,56.4,77.2,5.1
+1086,Hassan Mirza,Male,9-A,Computer Science,59.7,77.0,2.1
+1118,Hassan Siddiqui,Female,10-B,History,61.6,75.2,0.0
+1036,Zainab Khan,Male,10-B,History,58.5,65.8,3.2
+1243,Tariq Ahmed,Male,9-B,Science,79.7,83.3,4.4
+1113,Maria Abbasi,Female,12-A,Mathematics,,90.8,5.3
+1078,Ali Awan,Female,9-A,Computer Science,81.3,75.9,3.2
+1027,Faizan Butt,Male,12-B,English,62.8,63.6,3.3
+1216,Tariq Qureshi,Male,10-B,Computer Science,99.3,83.9,6.2
+1297,Faizan Awan,Female,12-B,Computer Science,57.3,70.9,3.1
+1115,Warda Shah,Female,11-B,Mathematics,58.4,74.3,2.9
+1058,Danish Ahmed,Male,12-B,Computer Science,63.2,66.6,1.3
+1050,Danish Chaudhry,Female,10-B,Science,,63.7,1.1
+1226,Rimsha Hussain,Male,10-A,Science,73.8,,3.6
+1156,Kinza Sheikh,Female,9-A,Mathematics,56.0,67.0,3.5
+1111,Iqra Mirza,Female,11-B,English,69.5,72.0,2.6
+1018,Danish Ahmed,Female,11-B,Computer Science,61.2,76.1,3.6
+1039,Ahmed Shah,Female,9-B,English,93.2,98.5,4.9
+1205,Javeria Malik,Female,9-A,Mathematics,76.0,78.1,4.8
+1299,Maria Malik,Male,9-B,Mathematics,65.6,61.3,2.8
+1294,Saad Ahmed,Female,12-B,Computer Science,93.8,85.3,4.3
+1088,Bilal Baig,Female,12-B,Science,37.0,66.3,0.0
+1205,Javeria Malik,Female,9-A,English,86.2,78.1,4.8
+1192,Omar Malik,Male,12-B,English,,85.0,5.6
+1131,Rabia Mirza,Female,12-B,Science,81.2,74.4,3.1
+1196,Kinza Javed,Female,9-B,Computer Science,53.1,70.0,3.0
+1030,Hassan Iqbal,Female,10-A,Science,39.8,68.0,2.3
+1024,Tariq Rana,Male,12-A,History,70.8,72.2,2.3
+1203,Omar Hussain,Female,11-A,Computer Science,85.0,81.9,4.2
+1291,Asad Shah,Female,9-B,Computer Science,47.8,58.2,2.2
+1107,Hira Mirza,Female,12-B,History,64.3,81.9,2.2
+1173,Kinza Sheikh,Male,11-A,English,67.6,77.6,5.3
+1161,Rabia Farooq,Male,11-A,English,69.6,69.3,1.3
+1005,Fatima Javed,Female,10-A,English,93.3,83.9,4.1
+1254,Omar Shah,Female,12-B,Mathematics,67.8,64.3,3.9
+1202,Bushra Awan,Male,10-A,Science,89.6,97.6,6.5
+1225,Noman Awan,Female,10-A,History,75.1,72.5,3.0
+1180,Bushra Shah,Male,12-B,English,43.5,59.1,0.2
+1208,Kamran Iqbal,Male,11-B,Science,69.6,80.0,4.2
+1006,Bushra Butt,Male,10-B,Science,54.9,80.4,4.0
+1136,Maria Rana,Male,9-B,Science,41.7,65.0,0.3
+1003,Zara Chaudhry,Male,12-B,Computer Science,66.6,82.3,3.6
+1101,Hassan Ahmed,Male,10-A,Mathematics,70.7,76.8,4.7
+1247,Ali Shah,Female,9-A,History,35.4,53.1,0.0
+1178,Eman Khan,Male,10-B,English,70.6,81.2,1.7
+1017,Warda Awan,Male,10-B,English,67.2,-10.0,3.2
+1071,Zara Abbasi,Male,11-A,History,57.9,73.8,0.3
+1254,Omar Shah,Female,12-B,Science,69.0,64.3,3.9
+1285,Ali Raza,Female,9-A,Computer Science,58.2,70.4,2.0
+1242,Faizan Butt,Female,12-B,Mathematics,83.8,93.3,4.7
+1121,Fatima Iqbal,Female,11-B,Mathematics,38.3,54.1,0.3
+1176,Nida Raza,Male,9-A,Mathematics,43.1,75.0,2.1
+1055,Sana Qureshi,Female,11-B,History,65.8,78.4,3.3
+1183,Danish Rana,Male,11-A,English,40.6,71.0,0.0
+1137,Warda Baig,Male,11-A,Computer Science,,72.9,1.8
+1225,Noman Awan,Female,10-A,Computer Science,80.9,72.5,3.0
+1094,Bilal Sheikh,Female,10-B,Science,63.2,77.5,3.8
+1278,Zara Iqbal,Male,12-B,Computer Science,92.4,93.1,5.9
+1264,Bilal Yousaf,Female,12-A,History,54.1,59.9,1.6
+1133,Usman Shah,Male,10-B,English,83.0,83.6,1.4
+1188,Maria Raza,Male,9-B,History,57.8,68.8,
+1090,Bushra Butt,Male,12-B,English,51.5,,1.9
+1075,Nida Chaudhry,Male,11-B,Science,54.0,64.1,2.3
+1112,Saad Ahmed,Female,10-A,English,86.6,84.6,4.4
+1171,Junaid Javed,Female,9-A,Computer Science,83.5,97.4,4.5
+1199,Kinza Sheikh,Male,11-B,Computer Science,71.0,81.4,2.7
+1213,Hassan Sheikh,Female,9-B,History,63.0,74.0,1.2
+1055,Sana Qureshi,Female,11-B,Science,61.4,78.4,3.3
+1122,Shahzaib Abbasi,Female,12-B,Mathematics,69.5,66.3,3.9
+1090,Bushra Butt,Male,12-B,Computer Science,61.8,72.3,1.9
+1296,Tariq Siddiqui,Male,12-A,Science,70.4,86.4,3.5
+1105,Bushra Chaudhry,Female,11-B,History,69.2,79.1,3.3
+1043,Bushra Qureshi,Male,9-B,Computer Science,49.9,77.8,1.0
+1069,Bilal Iqbal,Female,11-A,Computer Science,53.7,71.5,3.5
+1168,Owais Rana,Female,12-B,History,61.1,53.0,0.0
+1263,Rehan Butt,Male,12-A,Computer Science,46.1,59.5,1.2
+1030,Hassan Iqbal,Female,10-A,English,72.4,68.0,2.3
+1293,Owais Hussain,Female,9-A,Mathematics,53.8,72.5,1.0
+1238,Tariq Khan,Female,9-A,Mathematics,43.7,54.4,
+1145,Warda Sheikh,Male,10-B,History,82.2,80.1,4.7
+1083,Hassan Butt,Male,12-B,English,66.7,77.6,3.5
+1138,Kamran Sheikh,Male,9-B,History,96.8,96.6,6.6
+1271,Usman Sheikh,Male,9-A,Computer Science,83.0,83.6,4.6
+1157,Asad Butt,Female,11-B,History,94.4,98.8,6.8
+1069,Bilal Iqbal,Female,11-A,English,70.4,71.5,3.5
+1190,Noman Malik,Male,9-B,English,75.8,85.6,5.6
+1150,Saad Khan,Male,9-B,English,78.2,78.2,4.3
+1035,Kinza Iqbal,Female,11-A,History,64.3,70.7,3.5
+1147,Rabia Hussain,Female,12-A,History,67.9,66.2,3.0
+1076,Saad Abbasi,Male,10-B,English,96.9,90.8,5.7
+1208,Kamran Iqbal,Male,11-B,History,77.4,80.0,4.2
+1148,Mahnoor Raza,Female,10-B,History,51.5,76.4,2.1
+1215,Kinza Abbasi,Female,9-B,Computer Science,71.4,78.7,3.3
+1011,Iqra Butt,Female,9-A,English,75.6,81.1,1.6
+1004,Tariq Raza,Male,11-A,History,59.2,72.6,1.7
+1045,Eman Abbasi,Female,11-B,Science,76.4,84.8,3.9
+1211,Zainab Hussain,Female,12-B,History,83.4,79.5,5.2
+1229,Junaid Javed,Male,9-A,Mathematics,53.7,83.5,2.5
+1020,Farah Siddiqui,Female,10-A,Mathematics,28.2,55.5,0.0
+1053,Owais Malik,Female,12-B,Science,78.7,76.2,3.4
+1261,Fatima Rana,Male,10-B,English,83.3,81.7,4.3
+1036,Zainab Khan,Male,10-B,Computer Science,53.2,65.8,3.2
+1144,Junaid Malik,Female,10-B,Science,73.3,77.5,3.3
+1286,Eman Qureshi,Male,12-B,Computer Science,80.4,80.2,4.5
+1037,Iqra Rana,Male,12-B,Computer Science,80.0,85.1,3.6
+1094,Bilal Sheikh,Female,10-B,English,67.1,77.5,3.8
+1181,Rabia Malik,Female,10-A,History,50.6,56.5,0.4
+1015,Warda Raza,Male,10-B,Science,36.5,58.0,0.2
+1243,Tariq Ahmed,Male,9-B,Mathematics,76.0,83.3,4.4
+1070,Ahmed Qureshi,Male,10-B,Science,74.5,77.9,3.9
+1006,Bushra Butt,Male,10-B,Computer Science,73.6,80.4,4.0
+1160,Arham Yousaf,Female,11-A,Science,54.6,76.6,3.1
+1032,Rehan Awan,Male,10-A,English,80.7,87.9,3.5
+1187,Eman Rana,Female,12-A,English,46.7,70.5,3.4
+1132,Danish Qureshi,Male,12-B,History,50.1,54.4,1.5
+1267,Eman Malik,Female,12-A,Computer Science,58.4,72.0,2.8
+1079,Shahzaib Abbasi,Male,10-B,Computer Science,65.9,81.7,3.9
+1198,Faizan Malik,Male,9-B,History,72.0,75.5,3.6
+1241,Iqra Ahmed,Male,9-A,Science,42.7,62.1,
+1214,Rimsha Yousaf,Male,11-B,Mathematics,61.3,74.0,5.7
+1081,Ali Malik,Female,12-B,English,,70.5,3.1
+1198,Faizan Malik,Male,9-B,Computer Science,66.4,75.5,3.6
+1136,Maria Rana,Male,9-B,English,38.7,65.0,0.3
+1165,Asad Yousaf,Male,10-B,English,50.0,75.5,2.6
+1193,Shahzaib Hussain,Female,11-A,History,75.3,60.1,3.9
+1168,Owais Rana,Female,12-B,Mathematics,42.0,53.0,0.0
+1207,Bushra Raza,Female,11-B,History,72.3,73.8,2.7
+1251,Zainab Abbasi,Male,12-B,History,63.3,77.7,2.2
+1188,Maria Raza,Male,9-B,Computer Science,36.2,68.8,1.2
+1211,Zainab Hussain,Female,12-B,Computer Science,80.2,79.5,5.2
+1139,Mahnoor Javed,Female,10-B,Science,64.0,87.5,3.2
+1244,Ali Raza,Female,9-A,Computer Science,42.1,61.5,1.8
+1067,Saad Baig,Female,9-A,Computer Science,42.9,62.0,0.0
+1175,Bushra Malik,Male,9-B,History,74.5,66.8,4.4
+1162,Eman Iqbal,Male,11-B,Mathematics,41.0,60.0,1.9
+1002,Zainab Yousaf,Female,12-A,English,51.8,72.4,1.6
+1104,Bilal Yousaf,Male,12-A,English,55.8,73.3,0.4
+1040,Nida Butt,Male,11-A,English,55.8,60.8,2.3
+1060,Nida Malik,Female,11-A,Science,50.2,85.0,0.1
+1221,Usman Rana,Male,11-B,Computer Science,50.0,54.6,2.0
+1270,Mahnoor Abbasi,Female,11-A,Science,55.3,61.5,1.8
+1025,Eman Qureshi,Male,11-B,English,63.1,67.9,1.9
+1076,Saad Abbasi,Male,10-B,History,91.4,90.8,5.7
+1213,Hassan Sheikh,Female,9-B,English,56.3,74.0,1.2
+1265,Mahnoor Chaudhry,Male,9-A,History,68.8,84.4,3.5
+1222,Fatima Hussain,Female,11-A,Computer Science,71.6,,3.2
+1033,Laiba Malik,Female,12-B,English,31.7,59.7,0.6
+1025,Eman Qureshi,Male,11-B,Computer Science,50.1,67.9,1.9
+1111,Iqra Mirza,Female,11-B,Science,56.4,72.0,2.6
+1001,Bilal Javed,Female,10-B,Computer Science,77.6,86.6,1.6
+1184,Iqra Hussain,Male,12-A,Mathematics,50.7,83.4,2.1
+1192,Omar Malik,Male,12-B,History,90.1,85.0,5.6
+1258,Zainab Mirza,Female,12-B,Computer Science,85.2,83.8,5.7
+1123,Ayesha Javed,Female,9-A,Science,59.4,66.2,2.8
+1058,Danish Ahmed,Male,12-B,English,51.4,66.6,1.3
+1192,Omar Malik,Male,12-B,Science,72.2,85.0,5.6
+1122,Shahzaib Abbasi,Female,12-B,History,65.7,66.3,3.9
+1262,Rimsha Sheikh,Female,12-B,Computer Science,92.2,96.0,5.8
+1182,Nida Siddiqui,Male,11-A,History,68.3,72.0,2.1
+1102,Ayesha Baig,Female,9-A,Science,38.5,50.1,2.0
+1072,Asad Ahmed,Male,11-B,Science,78.1,78.3,5.1
+1071,Zara Abbasi,Male,11-A,English,48.1,73.8,0.3
+1169,Kinza Rana,Female,10-B,Computer Science,42.5,81.3,0.0
+1168,Owais Rana,Female,12-B,Science,39.5,53.0,0.0
+1190,Noman Malik,Male,9-B,Science,89.5,85.6,5.6
+1134,Noman Raza,Female,9-A,English,65.6,69.1,3.3
+1178,Eman Khan,Male,10-B,Science,76.1,81.2,1.7
+1253,Ali Qureshi,Female,10-A,Science,61.2,77.0,2.4
+1067,Saad Baig,Female,9-A,History,42.7,62.0,0.0
+1031,Noman Mirza,Male,12-B,History,59.3,67.5,0.8
+1158,Danish Rana,Male,11-A,English,64.0,76.3,1.7
+1101,Hassan Ahmed,Male,10-A,Science,67.6,76.8,4.7
+1145,Warda Sheikh,Male,10-B,Science,72.7,80.1,4.7
+1075,Nida Chaudhry,Male,11-B,History,61.1,64.1,2.3
+1119,Kamran Yousaf,Female,12-A,Mathematics,49.4,70.7,4.0
+1063,Sana Chaudhry,Male,11-B,English,68.0,80.1,3.3
+1009,Rimsha Hussain,Male,12-A,English,48.7,68.9,0.7
+1237,Javeria Baig,Male,11-A,Computer Science,57.8,82.9,4.0
+1130,Zainab Rana,Female,9-B,Mathematics,67.1,82.8,2.0
+1257,Shahzaib Chaudhry,Female,9-B,Computer Science,55.6,71.1,2.3
+1195,Arham Ahmed,Female,10-A,Science,55.5,84.6,
+1292,Ali Farooq,Female,10-B,English,38.2,43.9,0.5
+1105,Bushra Chaudhry,Female,11-B,English,71.5,79.1,3.3
+1245,Bilal Malik,Female,12-A,Computer Science,55.1,65.3,1.1
+1153,Tariq Butt,Female,12-A,English,44.9,67.9,1.5
+1300,Nida Iqbal,Female,9-A,Computer Science,65.9,61.0,3.2
+1226,Rimsha Hussain,Male,10-A,History,90.5,85.3,3.6
+1141,Laiba Malik,Male,11-B,Computer Science,47.6,73.5,
+1252,Tariq Malik,Female,10-A,Computer Science,89.1,89.3,5.3
+1272,Rabia Yousaf,Male,9-A,Mathematics,71.4,96.5,3.6
+1189,Maria Farooq,Male,10-B,Computer Science,64.1,76.1,2.5
+1034,Zainab Chaudhry,Male,12-A,History,79.2,,5.2
+1073,Nida Sheikh,Female,12-B,Mathematics,58.2,78.5,2.3
+1204,Maria Hussain,Male,11-B,History,54.2,66.7,2.8
+1300,Nida Iqbal,Female,9-A,Mathematics,47.0,61.0,3.2
+1149,Imran Shah,Male,9-A,History,46.2,68.7,1.6
+1055,Sana Qureshi,Female,11-B,English,66.1,78.4,3.3
+1104,Bilal Yousaf,Male,12-A,Computer Science,69.9,73.3,0.4
+1163,Fatima Raza,Female,12-A,Computer Science,71.2,,1.8
+1164,Zainab Chaudhry,Female,11-B,History,82.2,91.9,4.5
+1147,Rabia Hussain,Female,12-A,Computer Science,,66.2,3.0
+1285,Ali Raza,Female,9-A,Science,48.2,70.4,2.0
+1266,Kinza Yousaf,Female,11-A,Mathematics,75.7,68.2,4.2
+1235,Warda Awan,Male,10-B,English,82.4,75.9,4.9
+1300,Nida Iqbal,Female,9-A,English,50.9,61.0,3.2
+1225,Noman Awan,Female,10-A,Science,79.5,72.5,3.0
+1026,Hamza Abbasi,Male,10-A,History,68.6,86.6,2.0
+1200,Ayesha Abbasi,Female,12-B,History,53.0,64.1,1.9
+1286,Eman Qureshi,Male,12-B,Science,81.6,80.2,4.5
+1109,Laiba Butt,Male,12-B,Computer Science,63.4,69.2,4.4
+1076,Saad Abbasi,Male,10-B,Computer Science,77.8,90.8,5.7
+1041,Laiba Yousaf,Male,11-A,History,77.4,75.7,4.5
+1069,Bilal Iqbal,Female,11-A,History,,71.5,3.5
+1259,Rehan Shah,Female,10-B,English,71.0,74.2,3.5
+1282,Hamza Chaudhry,Male,9-A,Science,49.2,68.3,0.5
+1104,Bilal Yousaf,Male,12-A,History,51.7,73.3,0.4
+1098,Maria Farooq,Male,10-B,History,67.1,90.6,3.3
+1298,Noman Farooq,Male,11-B,History,58.1,55.6,0.0
+1184,Iqra Hussain,Male,12-A,English,64.5,83.4,2.1
+1047,Nida Hussain,Male,12-B,English,97.4,84.9,5.1
+1159,Ayesha Butt,Female,11-A,Computer Science,48.3,64.3,1.2
+1284,Kamran Yousaf,Female,9-B,History,55.3,77.0,1.1
+1225,Noman Awan,Female,10-A,English,74.0,72.5,3.0
+1103,Asad Butt,Male,11-A,Computer Science,41.4,45.2,0.4
+1300,Nida Iqbal,Female,9-A,History,46.5,61.0,3.2
+1103,Asad Butt,Male,11-A,Science,41.6,45.2,0.4
+1023,Eman Abbasi,Female,9-B,English,71.6,79.9,2.9
+1290,Fatima Awan,Male,10-B,Computer Science,79.3,86.3,5.1
+1044,Iqra Malik,Male,9-A,English,90.1,76.0,3.2
+1100,Javeria Javed,Male,10-A,Computer Science,60.9,72.2,3.2
+1297,Faizan Awan,Female,12-B,English,61.2,70.9,3.1
+1187,Eman Rana,Female,12-A,Computer Science,64.3,70.5,3.4
+1046,Usman Khan,Female,11-A,Mathematics,,69.9,3.3
+1209,Zainab Baig,Female,12-B,English,36.0,57.8,0.2
+1259,Rehan Shah,Female,10-B,Science,71.7,74.2,3.5
+1281,Sana Baig,Female,10-B,Science,60.1,71.5,0.5
+1080,Zainab Malik,Male,12-B,English,82.2,72.6,3.6
+1109,Laiba Butt,Male,12-B,Mathematics,67.8,69.2,4.4
+1066,Ali Raza,Female,11-B,History,67.7,80.5,3.7
+1160,Arham Yousaf,Female,11-A,Mathematics,40.1,76.6,3.1
+1170,Zainab Javed,Female,11-A,History,49.9,63.7,0.6
+1292,Ali Farooq,Female,10-B,Computer Science,21.0,43.9,0.5
+1019,Rimsha Butt,Male,11-B,History,75.1,79.7,3.4
+1043,Bushra Qureshi,Male,9-B,History,56.0,77.8,1.0
+1155,Eman Sheikh,Female,12-A,Mathematics,62.7,86.0,4.3
+1068,Fatima Mirza,Male,11-A,English,80.2,75.9,2.6
+1161,Rabia Farooq,Male,11-A,History,62.8,69.3,1.3
+1043,Bushra Qureshi,Male,9-B,English,51.0,77.8,1.0
+1124,Sana Mirza,Male,9-A,History,29.3,64.7,0.0
+1228,Laiba Farooq,Male,9-A,Computer Science,82.0,78.6,2.7
+1237,Javeria Baig,Male,11-A,English,60.3,82.9,4.0
+1234,Fatima Butt,Male,12-A,History,73.3,82.2,3.6
+1228,Laiba Farooq,Male,9-A,Science,67.3,78.6,2.7
+1008,Faizan Butt,Male,9-B,Science,47.2,63.3,2.7
+1022,Javeria Baig,Female,10-B,Mathematics,45.0,67.7,2.3
+1073,Nida Sheikh,Female,12-B,English,75.5,78.5,2.3
+1171,Junaid Javed,Female,9-A,Mathematics,75.6,97.4,4.5
+1152,Imran Qureshi,Female,12-A,Science,69.7,81.4,5.3
+1152,Imran Qureshi,Female,12-A,History,67.7,81.4,5.3
+1074,Zainab Sheikh,Male,9-B,Mathematics,,84.1,2.2
+1172,Hira Yousaf,Female,10-B,Science,100.0,88.5,5.4
+1254,Omar Shah,Female,12-B,Computer Science,69.9,64.3,3.9
+1298,Noman Farooq,Male,11-B,History,58.1,55.6,0.0
+1114,Laiba Qureshi,Male,12-A,Mathematics,35.6,59.7,1.3
+1050,Danish Chaudhry,Female,10-B,Computer Science,59.4,63.7,1.1
+1096,Kamran Hussain,Male,10-B,Science,85.1,78.1,4.9
+1238,Tariq Khan,Female,9-A,History,48.8,54.4,1.4
+1157,Asad Butt,Female,11-B,Science,86.3,98.8,6.8
+1091,Junaid Qureshi,Male,9-B,Computer Science,70.8,83.5,2.9
+1274,Usman Yousaf,Female,9-A,Computer Science,63.0,,1.9
+1241,Iqra Ahmed,Male,9-A,Mathematics,50.9,62.1,1.6
+1222,Fatima Hussain,Female,11-A,English,79.1,79.8,3.2
+1047,Nida Hussain,Male,12-B,Mathematics,81.8,84.9,5.1
+1131,Rabia Mirza,Female,12-B,English,67.2,74.4,3.1
+1015,Warda Raza,Male,10-B,Mathematics,28.6,58.0,0.2
+1123,Ayesha Javed,Female,9-A,Mathematics,54.3,66.2,2.8
+1235,Warda Awan,Male,10-B,Computer Science,71.3,75.9,4.9
+1292,Ali Farooq,Female,10-B,Mathematics,2.1,43.9,0.5
+1283,Hamza Shah,Female,11-A,Mathematics,43.0,73.4,0.0
+1295,Asad Ahmed,Female,12-A,Mathematics,54.8,71.8,4.6
+1083,Hassan Butt,Male,12-B,Mathematics,74.9,77.6,3.5
+1280,Owais Javed,Male,11-A,Science,60.4,78.2,5.0
+1231,Ali Ahmed,Male,10-B,Science,74.3,85.7,4.7
+1068,Fatima Mirza,Male,11-A,History,76.0,75.9,2.6
+1206,Laiba Khan,Female,10-A,Mathematics,82.9,83.5,2.9
+1009,Rimsha Hussain,Male,12-A,History,48.0,68.9,0.7
+1108,Maria Ahmed,Female,12-A,Computer Science,73.4,86.5,2.9
+1121,Fatima Iqbal,Female,11-B,Science,40.1,54.1,0.3
+1194,Hassan Baig,Male,10-B,Mathematics,83.0,81.5,2.2
+1272,Rabia Yousaf,Male,9-A,Computer Science,77.7,96.5,3.6
+1035,Kinza Iqbal,Female,11-A,Science,72.0,70.7,3.5
+1084,Fatima Ahmed,Female,11-A,English,48.7,55.7,0.0
+1168,Owais Rana,Female,12-B,English,49.3,53.0,0.0
+1253,Ali Qureshi,Female,10-A,Mathematics,48.7,77.0,2.4
+1162,Eman Iqbal,Male,11-B,Science,45.3,60.0,1.9
+1177,Usman Raza,Female,9-B,English,59.1,68.2,2.4
+1283,Hamza Shah,Female,11-A,English,55.1,73.4,0.0
+1128,Farah Rana,Female,11-B,English,56.2,52.2,3.6
+1085,Imran Ahmed,Female,12-A,History,65.1,73.9,3.9
+1146,Rabia Rana,Male,9-A,English,62.8,66.0,0.8
+1194,Hassan Baig,Male,10-B,English,68.5,81.5,2.2
+1076,Saad Abbasi,Male,10-B,Science,83.4,90.8,
+1105,Bushra Chaudhry,Female,11-B,Computer Science,56.6,79.1,3.3
+1088,Bilal Baig,Female,12-B,History,43.1,66.3,0.0
+1261,Fatima Rana,Male,10-B,Computer Science,80.5,81.7,4.3
+1031,Noman Mirza,Male,12-B,Mathematics,44.9,67.5,0.8
+1231,Ali Ahmed,Male,10-B,Computer Science,92.2,,4.7
+1275,Omar Khan,Male,12-B,Computer Science,47.4,66.8,3.6
+1197,Bushra Khan,Female,12-B,Science,52.0,68.5,3.8
+1191,Eman Butt,Male,11-A,Computer Science,50.5,65.3,2.6
+1274,Usman Yousaf,Female,9-A,Mathematics,43.9,74.6,1.9
+1029,Kamran Abbasi,Female,10-B,History,,72.4,1.0
+1144,Junaid Malik,Female,10-B,English,79.6,77.5,3.3
+1106,Tariq Butt,Female,9-B,Science,73.9,92.0,3.0
+1117,Arham Khan,Male,10-A,History,53.4,68.9,0.1
+1196,Kinza Javed,Female,9-B,Mathematics,62.2,70.0,3.0
+1114,Laiba Qureshi,Male,12-A,Science,49.1,59.7,1.3
+1247,Ali Shah,Female,9-A,English,43.8,53.1,0.0
+1089,Ahmed Khan,Male,12-B,Mathematics,27.1,65.9,0.0
+1232,Hira Farooq,Female,12-A,Mathematics,86.2,74.8,2.8
+1035,Kinza Iqbal,Female,11-A,Computer Science,64.4,70.7,3.5
+1285,Ali Raza,Female,9-A,History,58.3,70.4,2.0
+1025,Eman Qureshi,Male,11-B,History,43.3,67.9,1.9
+1028,Kamran Khan,Male,12-B,History,57.5,68.8,2.7
+1176,Nida Raza,Male,9-A,Computer Science,74.4,75.0,2.1
+1216,Tariq Qureshi,Male,10-B,Mathematics,81.3,83.9,6.2
+1147,Rabia Hussain,Female,12-A,English,65.5,66.2,3.0
+1125,Rimsha Awan,Female,11-B,Computer Science,66.1,73.7,2.0
+1157,Asad Butt,Female,11-B,Computer Science,98.1,98.8,6.8
+1037,Iqra Rana,Male,12-B,English,73.0,85.1,3.6
+1124,Sana Mirza,Male,9-A,English,37.4,64.7,0.0
+1139,Mahnoor Javed,Female,10-B,Mathematics,63.6,,3.2
+1266,Kinza Yousaf,Female,11-A,History,82.9,68.2,4.2
+1049,Javeria Javed,Male,9-B,Mathematics,63.8,67.3,2.2
+1251,Zainab Abbasi,Male,12-B,Computer Science,,77.7,2.2
+1092,Zainab Awan,Male,11-B,History,77.9,86.2,4.3
+1137,Warda Baig,Male,11-A,Science,56.2,72.9,
+1094,Bilal Sheikh,Female,10-B,Mathematics,53.8,77.5,3.8
+1238,Tariq Khan,Female,9-A,English,48.0,54.4,1.4
+1239,Kamran Hussain,Male,12-A,Science,50.3,,1.1
+1030,Hassan Iqbal,Female,10-A,Mathematics,62.2,68.0,2.3
+1042,Kamran Malik,Male,11-B,Science,29.6,58.3,0.0
+1243,Tariq Ahmed,Male,9-B,English,91.5,,4.4
+1269,Mahnoor Butt,Female,11-B,History,58.6,65.4,3.2
+1065,Hira Mirza,Female,11-A,Computer Science,69.6,71.3,4.3
+1132,Danish Qureshi,Male,12-B,English,54.8,54.4,1.5
+1277,Faizan Hussain,Female,9-A,Computer Science,33.8,66.3,0.3
+1143,Arham Ahmed,Female,10-B,Computer Science,64.6,80.1,2.4
+1280,Owais Javed,Male,11-A,Computer Science,75.4,78.2,5.0
+1288,Danish Ahmed,Male,9-B,Mathematics,89.5,88.8,4.3
+1016,Junaid Iqbal,Female,10-A,Computer Science,74.8,78.0,4.1
+1290,Fatima Awan,Male,10-B,Mathematics,82.8,,5.1
+1274,Usman Yousaf,Female,9-A,English,53.9,74.6,1.9
+1138,Kamran Sheikh,Male,9-B,English,91.0,96.6,6.6
+1034,Zainab Chaudhry,Male,12-A,Science,75.6,76.3,5.2
+1046,Usman Khan,Female,11-A,Computer Science,66.5,69.9,3.3
+1293,Owais Hussain,Female,9-A,Computer Science,46.4,72.5,1.0
+1269,Mahnoor Butt,Female,11-B,Mathematics,49.0,65.4,3.2
+1149,Imran Shah,Male,9-A,Mathematics,46.4,68.7,1.6
+1021,Noman Shah, male ,11-B,Mathematics,64.3,79.8,2.1
+1059,Imran Yousaf,Male,12-A,Mathematics,60.8,77.4,3.0
+1089,Ahmed Khan,Male,12-B,Computer Science,39.3,65.9,
+1176,Nida Raza,Male,9-A,History,72.9,75.0,2.1
+1216,Tariq Qureshi,Male,10-B,English,96.8,83.9,6.2
+1148,Mahnoor Raza,Female,10-B,Computer Science,44.6,76.4,2.1
+1079,Shahzaib Abbasi,Male,10-B,Science,66.4,81.7,3.9
+1018,Danish Ahmed,Female,11-B,Science,61.2,76.1,3.6
+1020,Farah Siddiqui,Female,10-A,Mathematics,28.2,55.5,0.0
+1134,Noman Raza,Female,9-A,Science,47.5,69.1,3.3
+1256,Shahzaib Sheikh,Male,10-B,Mathematics,79.4,86.0,6.5
+1273,Noman Hussain,Male,10-B,History,75.0,75.4,2.3
+1096,Kamran Hussain,Male,10-B,Mathematics,69.5,78.1,4.9
+1260,Saad Khan,Female,11-B,Mathematics,87.5,76.6,4.9
+1009,Rimsha Hussain,Male,12-A,Computer Science,45.3,68.9,0.7
+1158,Danish Rana,Male,11-A,History,51.5,76.3,1.7
+1201,Warda Mirza,Female,9-A,English,49.3,65.8,0.8
+1228,Laiba Farooq,Male,9-A,English,78.9,78.6,2.7
+1005,Fatima Javed,Female,10-A,Computer Science,80.5,83.9,4.1
+1248,Rabia Malik,Male,12-A,Mathematics,63.0,82.4,3.4
+1167,Fatima Awan,Male,9-B,English,64.8,63.0,3.2
+1239,Kamran Hussain,Male,12-A,History,47.6,57.6,1.1
+1119,Kamran Yousaf,Female,12-A,Science,44.0,70.7,4.0
+1299,Maria Malik,Male,9-B,Science,60.0,61.3,2.8
+1195,Arham Ahmed,Female,10-A,History,56.5,,2.4
+1212,Iqra Rana,Male,10-A,Science,71.6,87.0,4.4
+1022,Javeria Baig,Female,10-B,Computer Science,58.1,67.7,2.3
+1233,Kinza Raza,Female,12-A,Mathematics,74.2,83.4,3.4
+1045,Eman Abbasi,Female,11-B,English,85.8,84.8,3.9
+1211,Zainab Hussain,Female,12-B,English,85.1,79.5,5.2
+1263,Rehan Butt,Male,12-A,Science,34.7,59.5,1.2
+1145,Warda Sheikh,Male,10-B,English,79.6,80.1,4.7
+1012,Kamran Javed,Female,10-B,Mathematics,49.1,68.2,4.0
+1299,Maria Malik,Male,9-B,History,60.3,61.3,2.8
+1051,Zainab Raza,Male,9-B,History,50.9,,5.1
+1288,Danish Ahmed,Male,9-B,History,74.7,88.8,4.3
+1215,Kinza Abbasi,Female,9-B,English,67.7,78.7,3.3
+1129,Faizan Rana,Female,10-A,English,34.0,57.6,0.1
+1110,Hamza Abbasi,Female,11-A,Mathematics,16.6,51.1,0.0
+1096,Kamran Hussain,Male,10-B,English,75.3,78.1,4.9
+1190,Noman Malik,Male,9-B,Computer Science,90.5,85.6,5.6
+1169,Kinza Rana,Female,10-B,History,60.3,81.3,0.0
+1013,Sana Awan,Female,10-B,History,42.7,59.5,1.0
+1083,Hassan Butt,Male,12-B,History,58.6,77.6,3.5
+1077,Rabia Malik,Male,12-A,Computer Science,67.7,61.3,4.7
+1287,Zara Mirza,Female,11-A,Mathematics,40.3,70.0,2.6
+1195,Arham Ahmed,Female,10-A,Computer Science,58.4,84.6,2.4
+1177,Usman Raza,Female,9-B,Computer Science,77.3,68.2,2.4
+1091,Junaid Qureshi,Male,9-B,Science,74.4,83.5,2.9
+1252,Tariq Malik,Female,10-A,History,97.6,89.3,5.3
+1132,Danish Qureshi,Male,12-B,Science,45.6,54.4,1.5
+1266,Kinza Yousaf,Female,11-A,English,68.5,68.2,4.2
+1074,Zainab Sheikh,Male,9-B,Computer Science,74.1,84.1,2.2
+1138,Kamran Sheikh,Male,9-B,Computer Science,96.7,96.6,6.6
+1044,Iqra Malik,Male,9-A,Computer Science,72.9,76.0,3.2
+1284,Kamran Yousaf,Female,9-B,Science,64.1,77.0,1.1
+1265,Mahnoor Chaudhry,Male,9-A,Mathematics,67.8,84.4,3.5
+1005,Fatima Javed,Female,10-A,Science,74.6,83.9,4.1
+1153,Tariq Butt,Female,12-A,Mathematics,56.3,67.9,1.5
+1174,Mahnoor Shah,Female,10-B,Computer Science,84.8,82.5,4.5
+1085,Imran Ahmed,Female,12-A,Mathematics,56.1,73.9,3.9
+1270,Mahnoor Abbasi,Female,11-A,Computer Science,62.9,61.5,1.8
+1040,Nida Butt,Male,11-A,Computer Science,49.3,60.8,2.3
+1091,Junaid Qureshi, male ,9-B,Mathematics,63.2,83.5,2.9
+1233,Kinza Raza,Female,12-A,Science,71.4,83.4,3.4
+1204,Maria Hussain,Male,11-B,Computer Science,65.6,66.7,2.8
+1183,Danish Rana,Male,11-A,Science,52.1,71.0,0.0
+1140,Javeria Mirza,Female,12-B,Science,61.9,68.6,3.4
+1163,Fatima Raza,Female,12-A,Science,68.0,70.2,1.8
+1248,Rabia Malik,Male,12-A,Science,65.4,82.4,3.4
+1298,Noman Farooq,Male,11-B,Mathematics,26.7,55.6,0.0
+1183,Danish Rana,Male,11-A,Mathematics,31.5,71.0,0.0
+1210,Ayesha Sheikh,Female,12-B,Computer Science,65.8,73.6,3.8
+1102,Ayesha Baig,Female,9-A,Mathematics,33.1,50.1,2.0
+1275,Omar Khan,Male,12-B,Science,60.2,66.8,3.6
+1252,Tariq Malik,Female,10-A,Mathematics,71.6,89.3,5.3
+1082,Farah Rana,Female,9-A,Mathematics,53.3,68.3,2.3
+1064,Junaid Abbasi,Female,10-A,English,75.9,89.0,4.1
+1037,Iqra Rana,Male,12-B,History,85.3,85.1,3.6
+1225,Noman Awan,Female,10-A,Mathematics,63.8,72.5,3.0
+1281,Sana Baig,Female,10-B,Computer Science,56.8,71.5,0.5
+1122,Shahzaib Abbasi,Female,12-B,Computer Science,72.4,66.3,3.9
+1126,Omar Mirza,Male,9-A,Science,64.4,78.8,1.7
+1098,Maria Farooq,Male,10-B,Mathematics,67.5,90.6,3.3
+1056,Nida Rana,Female,12-A,History,69.6,76.9,5.9
+1127,Sana Khan,Female,11-A,Mathematics,54.1,72.9,1.6
+1005,Fatima Javed,Female,10-A,Mathematics,73.0,83.9,4.1
+1035,Kinza Iqbal,Female,11-A,Mathematics,57.5,70.7,3.5
+1181,Rabia Malik,Female,10-A,Science,55.7,56.5,0.4
+1208,Kamran Iqbal,Male,11-B,Computer Science,60.6,80.0,4.2
+1036,Zainab Khan,Male,10-B,Science,52.0,65.8,3.2
+1066,Ali Raza,Female,11-B,English,68.5,80.5,3.7
+1142,Eman Khan,Female,12-B,Science,45.6,63.7,0.0
+1245,Bilal Malik,Female,12-A,English,61.5,65.3,1.1
+1095,Fatima Hussain,Female,9-B,Mathematics,30.6,51.7,0.0
+1280,Owais Javed,Male,11-A,Mathematics,52.0,78.2,5.0
+1054,Tariq Malik,Female,9-A,Science,54.0,,2.0
+1124,Sana Mirza,Male,9-A,Mathematics,41.5,64.7,0.0
+1027,Faizan Butt,Male,12-B,Mathematics,58.1,63.6,3.3
+1174,Mahnoor Shah,Female,10-B,Mathematics,67.7,82.5,4.5
+1292,Ali Farooq,Female,10-B,History,24.5,-10.0,0.5
+1273,Noman Hussain,Male,10-B,English,75.0,75.4,2.3
+1281,Sana Baig,Female,10-B,Mathematics,53.9,71.5,0.5
+1098,Maria Farooq,Male,10-B,Computer Science,74.6,90.6,3.3
+1122,Shahzaib Abbasi,Female,12-B,Science,65.4,66.3,3.9
+1244,Ali Raza,Female,9-A,English,51.1,61.5,1.8
+1233,Kinza Raza,Female,12-A,Computer Science,85.2,83.4,3.4
+1084,Fatima Ahmed,Female,11-A,Science,29.7,55.7,0.0
+1031,Noman Mirza,Male,12-B,English,61.5,67.5,0.8
+1178,Eman Khan,Male,10-B,Computer Science,76.8,81.2,1.7
+1170,Zainab Javed,Female,11-A,Computer Science,54.7,63.7,0.6
+1056,Nida Rana,Female,12-A,Computer Science,76.3,76.9,5.9
+1207,Bushra Raza,Female,11-B,Computer Science,66.5,73.8,2.7
+1054,Tariq Malik,Female,9-A,Computer Science,67.3,74.3,2.0
+1020,Farah Siddiqui,Female,10-A,Science,39.2,55.5,0.0
+1043,Bushra Qureshi,Male,9-B,Mathematics,49.9,77.8,1.0
+1114,Laiba Qureshi,Male,12-A,Computer Science,39.7,59.7,1.3
+1294,Saad Ahmed,Female,12-B,Mathematics,82.2,85.3,4.3
+1175,Bushra Malik,Male,9-B,Science,73.5,66.8,4.4
+1107,Hira Mirza,Female,12-B,English,70.0,81.9,2.2
+1293,Owais Hussain,Female,9-A,English,49.5,72.5,1.0
+1272,Rabia Yousaf,Male,9-A,Science,78.0,96.5,3.6
+1220,Kamran Yousaf,Female,9-A,Computer Science,74.1,76.4,2.9
+1143,Arham Ahmed,Female,10-B,English,58.4,80.1,2.4
+1016,Junaid Iqbal,Female,10-A,English,83.2,78.0,4.1
+1053,Owais Malik,Female,12-B,History,63.2,76.2,3.4
+1012,Kamran Javed,Female,10-B,English,51.0,68.2,4.0
+1030,Hassan Iqbal,Female,10-A,Computer Science,66.8,68.0,2.3
+1094,Bilal Sheikh,Female,10-B,Computer Science,85.5,,3.8
+1113,Maria Abbasi,Female,12-A,Computer Science,84.1,90.8,5.3
+1093,Farah Hussain,Female,10-B,Science,93.4,92.0,5.9
+1256,Shahzaib Sheikh,Male,10-B,English,97.1,86.0,6.5
+1180,Bushra Shah,Male,12-B,Science,46.9,59.1,0.2
+1279,Zainab Mirza,Male,12-B,History,57.9,68.6,3.5
+1270,Mahnoor Abbasi,Female,11-A,Mathematics,39.6,61.5,1.8
+1140,Javeria Mirza,Female,12-B,Mathematics,56.9,68.6,3.4
+1236,Shahzaib Rana,Male,9-B,Mathematics,39.3,63.3,1.2
+1186,Saad Butt,Female,10-B,History,60.2,75.7,4.9
+1266,Kinza Yousaf,Female,11-A,Science,89.0,68.2,4.2
+1243,Tariq Ahmed,Male,9-B,Computer Science,99.7,83.3,4.4
+1118,Hassan Siddiqui,Female,10-B,Science,60.7,75.2,0.0
+1275,Omar Khan,Male,12-B,English,64.8,66.8,3.6
+1049,Javeria Javed,Male,9-B,History,75.9,67.3,2.2
+1223,Ahmed Yousaf,Male,12-B,Science,79.9,83.9,3.5
+1151,Hassan Khan,Male,9-A,Science,27.9,63.0,1.5
+1290,Fatima Awan,Male,10-B,English,85.5,86.3,5.1
+1263,Rehan Butt,Male,12-A,English,34.9,59.5,1.2
+1130,Zainab Rana,Female,9-B,History,74.7,82.8,2.0
+1239,Kamran Hussain,Male,12-A,Mathematics,43.0,57.6,1.1
+1120,Hassan Hussain,Female,11-A,Mathematics,53.5,86.6,1.8
+1063,Sana Chaudhry,Male,11-B,History,63.0,80.1,3.3
+1187,Eman Rana,Female,12-A,History,47.5,70.5,3.4
+1032,Rehan Awan,Male,10-A,Mathematics,74.4,87.9,3.5
+1277,Faizan Hussain,Female,9-A,Mathematics,26.1,66.3,
+1282,Hamza Chaudhry,Male,9-A,Mathematics,45.8,68.3,0.5
+1261,Fatima Rana,Male,10-B,History,86.3,81.7,4.3
+1231,Ali Ahmed,Male,10-B,Mathematics,79.9,85.7,4.7
+1200,Ayesha Abbasi,Female,12-B,Computer Science,44.7,64.1,1.9
+1210,Ayesha Sheikh,Female,12-B,Science,66.1,73.6,3.8
+1262,Rimsha Sheikh,Female,12-B,Science,92.4,,5.8
+1279,Zainab Mirza,Male,12-B,Science,62.4,68.6,3.5
+1006,Bushra Butt,Male,10-B,Mathematics,71.2,80.4,4.0
+1040,Nida Butt,Male,11-A,Science,55.2,60.8,2.3
+1218,Imran Malik,Female,12-A,History,35.0,64.7,0.0
+1004,Tariq Raza,Male,11-A,Mathematics,40.5,72.6,1.7
+1265,Mahnoor Chaudhry,Male,9-A,Science,78.4,84.4,3.5
+1177,Usman Raza,Female,9-B,History,64.0,68.2,2.4
+1125,Rimsha Awan,Female,11-B,Science,53.1,73.7,2.0
+1273,Noman Hussain,Male,10-B,Mathematics,62.7,75.4,2.3
+1211,Zainab Hussain,Female,12-B,Mathematics,84.4,79.5,5.2
+1214,Rimsha Yousaf,Male,11-B,English,85.9,74.0,5.7
+1100,Javeria Javed,Male,10-A,English,61.0,72.2,
+1159,Ayesha Butt,Female,11-A,English,53.8,64.3,1.2
+1193,Shahzaib Hussain,Female,11-A,Computer Science,74.8,60.1,3.9
+1104,Bilal Yousaf,Male,12-A,Mathematics,52.2,73.3,0.4
+1297,Faizan Awan,Female,12-B,Mathematics,43.2,70.9,3.1
+1283,Hamza Shah,Female,11-A,Science,53.7,73.4,0.0
+1220,Kamran Yousaf,Female,9-A,Mathematics,62.1,76.4,2.9
+1109,Laiba Butt,Male,12-B,English,75.6,69.2,4.4
+1092,Zainab Awan,Male,11-B,Science,78.5,86.2,4.3
+1127,Sana Khan,Female,11-A,History,58.8,72.9,1.6
+1087,Bilal Rana,Male,9-B,Science,43.9,57.8,0.6
+1126,Omar Mirza,Male,9-A,English,52.2,78.8,1.7
+1146,Rabia Rana,Male,9-A,History,63.0,66.0,0.8
+1258,Zainab Mirza,Female,12-B,History,86.5,83.8,5.7
+1042,Kamran Malik,Male,11-B,Computer Science,42.5,58.3,0.0
+1064,Junaid Abbasi,Female,10-A,Science,69.6,89.0,4.1
+1103,Asad Butt,Male,11-A,History,48.5,45.2,0.4
+1268,Nida Rana,Male,9-A,English,80.5,69.1,4.9
+1166,Noman Farooq,Male,10-B,Computer Science,58.2,71.8,1.7
+1064,Junaid Abbasi,Female,10-A,Computer Science,71.8,89.0,4.1
+1207,Bushra Raza,Female,11-B,Science,74.6,73.8,2.7
+1284,Kamran Yousaf,Female,9-B,English,62.8,77.0,1.1
+1029,Kamran Abbasi,Female,10-B,Science,62.7,72.4,1.0
+1223,Ahmed Yousaf,Male,12-B,Mathematics,56.9,83.9,3.5
+1151,Hassan Khan,Male,9-A,History,50.5,63.0,1.5
+1201,Warda Mirza,Female,9-A,Science,36.6,65.8,
+1248,Rabia Malik,Male,12-A,Computer Science,59.9,82.4,3.4
+1117,Arham Khan,Male,10-A,Mathematics,34.6,68.9,0.1
+1113,Maria Abbasi,Female,12-A,English,100.0,90.8,5.3
+1080,Zainab Malik,Male,12-B,History,78.5,72.6,3.6
+1134,Noman Raza,Female,9-A,History,55.5,69.1,
+1051,Zainab Raza,Male,9-B,English,60.5,77.2,5.1
+1182,Nida Siddiqui,Male,11-A,English,66.2,72.0,2.1
+1094,Bilal Sheikh,Female,10-B,History,66.4,77.5,3.8
+1183,Danish Rana, male ,11-A,Computer Science,44.0,71.0,0.0
+1072,Asad Ahmed,Male,11-B,English,79.8,78.3,5.1
+1256,Shahzaib Sheikh,Male,10-B,History,99.0,86.0,6.5
+1261,Fatima Rana,Male,10-B,Mathematics,83.4,81.7,4.3
+1241,Iqra Ahmed,Male,9-A,English,56.2,62.1,1.6
+1262,Rimsha Sheikh,Female,12-B,Mathematics,,96.0,5.8
+1283,Hamza Shah,Female,11-A,Computer Science,49.1,73.4,0.0
+1102,Ayesha Baig,Female,9-A,History,35.5,50.1,2.0
+1150,Saad Khan,Male,9-B,Computer Science,74.1,78.2,4.3
+1026,Hamza Abbasi,Male,10-A,Computer Science,66.4,86.6,2.0
+1029,Kamran Abbasi,Female,10-B,Computer Science,66.7,72.4,1.0
+1193,Shahzaib Hussain,Female,11-A,Mathematics,64.6,60.1,3.9
+1170,Zainab Javed,Female,11-A,English,60.0,63.7,0.6
+1144,Junaid Malik,Female,10-B,Mathematics,59.5,77.5,3.3
+1182,Nida Siddiqui,Male,11-A,Mathematics,50.2,72.0,2.1
+1220,Kamran Yousaf,Female,9-A,Science,55.8,76.4,2.9
+1048,Sana Abbasi,Female,12-A,Mathematics,65.4,84.8,2.5
+1213,Hassan Sheikh,Female,9-B,Science,56.4,74.0,1.2
